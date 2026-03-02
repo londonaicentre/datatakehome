@@ -58,7 +58,7 @@ Now that data has been loaded, please assess these files using your preferred ap
 
 Using your preferred approach, build a **pipeline** from your loaded raw data to **two analyst-ready outputs**:
 
-1. **ED Length of Stay** — You have been asked to break this down by presenting condition
+1. **ED Length of Stay** — You have been asked to break this down by presenting condition where possible
 2. **Frequent Attenders** — This should show frequent attenders over 12-month moving time windows
 
 Please provide **brief written answers** to these questions:
