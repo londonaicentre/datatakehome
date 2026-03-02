@@ -1,0 +1,1273 @@
+ENCOUNTER_ID,PATIENT_ID,NOTE_DATETIME,NOTE_TYPE,NOTE_TEXT
+dc8f5122-1705-4cdc-99e1-813825c5a10e,4f9dcdaa-fb47-412b-8288-03f8cbbc321e,2010-10-03T04:51:51Z,ED_TRIAGE,"CC: chest pain
+HPI: 73 year old female with PMH of COPD, AF presents with chest pain for 30 minutes. PMH: COPD, AF
+Assessment: UTI, send MSU"
+0a2a205c-45bd-41ed-be6a-eb9e77ce90cd,d8b07feb-551d-4b3c-9733-c468b8104f0c,2015-10-26T08:19:41Z,ED_TRIAGE,"CC: headache
+HPI: 64 year old female with PMH of rheumatoid arthritis presents with headache for 2 hours. No significant PMH
+Assessment: ? ACS, needs serial troponins"
+16137ecc-b970-4f10-88b2-a14dfbddd736,cae10920-f977-48b4-a0d3-4d70ad561fd1,2003-04-11T23:35:03Z,ED_TRIAGE,"CC: palpitations
+HPI: 89 year old male with PMH of CKD stage 3 presents with palpitations for 2 hours. Known to cardiology
+Assessment: viral URTI, supportive management"
+0fcb535b-1f00-4352-a067-b5760a38e831,c914f76e-2d8c-4da3-9b2a-e98794496245,1976-09-13T19:09:49Z,ED_TRIAGE,"6yo male presenting with abdominal pain x since yesterday. PMH: asthma. O/E: GCS 15, oriented, no focal neurology. Impression: needs CT head given age and mechanism. Plan: X-ray, analgesia, reassess"
+44d16271-6ca5-468e-ade2-009c59040fc6,a3abc11b-0fd1-4eb9-a69a-9075b4737612,2019-02-23T19:05:21Z,ED_TRIAGE,"107yo male presenting with headache x since yesterday. PMH: hypothyroidism. O/E: GCS 15, oriented, no focal neurology. Impression: low risk chest pain, HEART score 2. Plan: CT head, neuro obs"
+cb83bac9-9e0f-41c0-a296-341a98156dd4,35e1afdd-e938-441d-b54e-db15db0bbcfd,2014-04-13T05:05:25Z,ED_TRIAGE,"Pt presents to ED with fever. Onset 2 days ago. Pain 6/10. No significant PMH. Vitals: BP 99/99, HR 83, Temp 38.4. UTI, send MSU"
+6f78c9a4-856f-41dc-8c84-b786b2e7323f,3e234e30-d471-4c3e-b433-220f2aa4a91d,2013-10-31T19:48:00Z,ED_TRIAGE,chest pain. 3 days. Tried over-the-counter antacids without relief. Recent discharge from ward. Obs stable. Triaged as category 3.
+b254dd6a-c20d-46e5-8541-15cd7d92d550,81e21b21-8b49-4ac1-b00d-46a7f43e46a9,2010-09-25T01:03:51Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: rash
+Duration: 1 week
+Severity: 9/10
+Allergies: NKDA
+Meds: salbutamol PRN
+Notes: accompanied by family"
+0c307ed0-e852-4237-8271-289908fb7ad1,aa266066-bb51-4990-be9b-0a49fc65303e,1990-09-15T00:52:14Z,ED_TRIAGE,cough. 3 days. Tried ibuprofen without relief. Regular attender. Obs stable. Triaged as category 4.
+21013931-c236-436f-a0f6-76feef24d872,0b48619e-1602-488c-a23b-3d4937153dff,2010-06-28T15:18:00Z,ED_TRIAGE,"Pt presents to ED with chest pain. Onset 1 week ago. Pain 2/10. Recent discharge from ward. Vitals: BP 164/104, HR 83, Temp 38.8. exacerbation of known COPD"
+b9a8d8b2-b65b-416b-bf05-ba8cb0e7aed3,9bebd912-a12b-4a83-a02c-f510587246df,2020-04-18T14:31:51Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 30 minutes
+Severity: 4/10
+Allergies: NKDA
+Meds: metformin, ramipril
+Notes: appears distressed"
+b1feab6f-095d-44b6-b4c5-b4f01b476ee2,5c06120a-9af5-4204-951b-7a8bfc465df3,2016-10-13T01:41:15Z,ED_TRIAGE,"56yo female presenting with cough x since yesterday. Known to cardiology. O/E: GCS 15, oriented, no focal neurology. Impression: UTI, send MSU. Plan: X-ray, analgesia, reassess"
+8f8e60aa-e2c2-4c3a-841a-c2264941429f,47392cc2-4fb3-4431-b56f-c54688671786,1986-05-21T01:51:56Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 42 year old female with PMH of IHD, prev MI 2019 presents with shortness of breath for 3 days. PMH: asthma
+Assessment: likely MSK, low risk"
+f4e284d6-7a32-448b-b145-8de0c3070148,aeb1d328-5e2b-44e4-91ed-4527c91c7dba,2015-02-13T05:37:36Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: rash
+Duration: 1 week
+Severity: 2/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: walked in from waiting room"
+0802c211-750e-4a48-9e4a-3d65ae3dc638,7723d469-7227-4b58-8f3e-b441197f4134,2015-03-10T21:54:59Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 3 days
+Severity: 0/10
+Allergies: NKDA
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: patient appears comfortable"
+817c2858-98e5-4d59-bc1b-5265bddb0edd,3acf9313-1874-4dff-ab2a-3187516d92d6,2017-01-30T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: 3 days
+Severity: 7/10
+Allergies: Codeine
+Meds: metformin, ramipril
+Notes: patient appears comfortable"
+a27dec87-5190-47af-a7b9-c5d687f955c2,5c06120a-9af5-4204-951b-7a8bfc465df3,2019-03-21T01:41:15Z,ED_TRIAGE,"59yo female presenting with back pain x since yesterday. No significant PMH. O/E: swollen right ankle, unable to weight bear. Impression: mechanical fall, no red flags. Plan: discharge with safety net advice"
+e71ab6d4-0ab5-497c-877a-fad63d52ccf6,b7740f2d-d404-4021-8c0a-2c395ef9b4da,1974-07-24T08:43:46Z,ED_TRIAGE,"49yo male presenting with headache x since yesterday. Known to cardiology. O/E: clear chest bilaterally. Impression: mechanical fall, no red flags. Plan: X-ray, analgesia, reassess"
+b650fba7-1532-412d-bc3b-741fae942686,cae10920-f977-48b4-a0d3-4d70ad561fd1,2005-04-22T23:35:03Z,ED_TRIAGE,"CC: dizziness
+HPI: 91 year old male with PMH of rheumatoid arthritis presents with dizziness for 1 week. Recent discharge from ward
+Assessment: ? ACS, needs serial troponins"
+baf5c6a0-85de-4e64-a9b1-acf9119e64f7,61417eb5-1c42-4207-afb3-c9ebef48496f,1994-11-29T01:34:06Z,ED_TRIAGE,syncope. 2 hours. Tried rest without relief. No significant PMH. Obs stable. Triaged as category 4.
+94048380-1a60-43a5-a5bd-4d90bce6ce01,cae10920-f977-48b4-a0d3-4d70ad561fd1,2007-02-09T23:35:03Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset 2 days ago. Pain 3/10. No significant PMH. Vitals: BP 139/84, HR 123, Temp 38.8. viral URTI, supportive management"
+06a91f69-6423-4423-9553-8e3df447904b,6ec18ddf-e9ee-421a-9033-456f558c7b4b,2004-12-22T21:19:21Z,ED_TRIAGE,"Pt presents to ED with headache. Onset 1 week ago. Pain 5/10. No significant PMH. Vitals: BP 134/71, HR 78, Temp 36.4. ? ACS, needs serial troponins"
+b279e446-2b9f-49d4-aa4e-5ab58dcc2de1,1c0cea09-f0db-4ef0-a551-d67645ee4538,2003-08-10T18:46:22Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 76 year old female with PMH of CKD stage 3 presents with nausea and vomiting for 3 days. Known to cardiology
+Assessment: needs CT head given age and mechanism"
+64327a8b-0b77-48d3-8312-7355960a0b7a,3acf9313-1874-4dff-ab2a-3187516d92d6,2015-04-13T13:57:11Z,ED_TRIAGE,"CC: cough
+HPI: 98 year old male with PMH of nil significant presents with cough for 3 days. No significant PMH
+Assessment: low risk chest pain, HEART score 2"
+ea5a52a3-3958-434a-a5f1-265b4045cfb6,43915307-83f4-4afb-a1c1-97c7ef09d905,2006-02-07T23:45:10Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: 1 week
+Severity: 10/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: appears distressed"
+53af6978-2a5a-4846-912c-c5a873a0988c,f9149e25-1799-44bf-a5aa-449b41161345,2005-08-23T11:09:02Z,ED_TRIAGE,"CC: rash
+HPI: 24 year old female with PMH of HTN, T2DM presents with rash for 30 minutes. PMH: COPD, AF
+Assessment: viral URTI, supportive management"
+a7c7824f-b8b6-4b35-a5a1-c5f5edb0f31a,0f9eca6a-cee2-4155-94ae-4e43b3b55f06,2010-05-09T02:15:03Z,ED_TRIAGE,"4yo female presenting with back pain x 2 hours. Regular attender. O/E: tenderness over R iliac fossa. Impression: exacerbation of known COPD. Plan: CT head, neuro obs"
+faa8997d-492f-415e-acc0-74aaccf627fc,257af8d7-ba2c-4394-9a30-691e6f80d8a6,2014-05-15T05:31:28Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: seizure
+Duration: 2 hours
+Severity: 0/10
+Allergies: Penicillin
+Meds: nil regular
+Notes: appears distressed"
+dd089547-f9ee-4f1c-a236-10d0d901fed5,3acf9313-1874-4dff-ab2a-3187516d92d6,2011-05-02T13:57:11Z,ED_TRIAGE,fever. since yesterday. Tried ibuprofen without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+f43f0fae-ea6a-4b4e-96d6-e4f77c2b0296,03172f6e-fb21-4770-8eef-513730174ab7,1966-11-04T09:16:22Z,ED_TRIAGE,"5yo female presenting with rash x 30 minutes. Regular attender. O/E: tenderness over R iliac fossa. Impression: likely MSK, low risk. Plan: X-ray, analgesia, reassess"
+cfef48b3-b769-4794-a3e7-f57f7ba8d387,d49f748f-928d-40e8-92c8-73e4c5679711,2017-02-08T08:42:44Z,ED_TRIAGE,"CC: laceration to left hand
+HPI: 49 year old male with PMH of CKD stage 3 presents with laceration to left hand for 1 week. Regular attender
+Assessment: needs CT head given age and mechanism"
+c27d390a-9034-44c2-b138-71cc7dbf7806,cb1be644-93a5-4208-8776-f5feece6967a,1973-09-19T16:26:18Z,ED_TRIAGE,"19yo male presenting with headache x 30 minutes. Known to cardiology. O/E: swollen right ankle, unable to weight bear. Impression: exacerbation of known COPD. Plan: IV fluids, antiemetics"
+f7b01957-ba64-417d-8202-0c13636e5e77,2e00e359-abc8-49aa-b98c-c0cc554acf34,2002-12-20T03:59:33Z,ED_TRIAGE,"CC: dizziness
+HPI: 51 year old female with PMH of asthma presents with dizziness for since yesterday. No significant PMH
+Assessment: UTI, send MSU"
+ef10225c-acbe-4c27-8426-decab55b1acc,9ad2f1f3-28b6-4af0-996b-ab17653d8f7b,2017-09-24T12:32:27Z,ED_TRIAGE,"Pt presents to ED with nausea and vomiting. Onset 1 week ago. Pain 1/10. Known to cardiology. Vitals: BP 114/52, HR 60, Temp 37.7. ? ACS, needs serial troponins"
+7577a4ed-983b-4240-a8aa-3c16792d5c76,3c851902-c01a-499c-bf65-00125386275f,2016-11-26T20:52:27Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: right ankle injury
+Duration: 3 days
+Severity: 6/10
+Allergies: Latex
+Meds: metformin, ramipril
+Notes: patient appears comfortable"
+a32f8460-ba74-4b89-aa80-632042dc064c,55f5ca08-6b25-4f13-9bf8-b3f0b3301647,2001-09-19T04:51:51Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset this morning. Pain 1/10. Known to cardiology. Vitals: BP 93/59, HR 79, Temp 38.8. viral URTI, supportive management"
+80099704-7b90-40d5-a4e3-066f4e7be767,fc448035-8fc9-4893-b4eb-d1b90fc8742c,2007-04-25T13:46:06Z,ED_TRIAGE,"15yo female presenting with shortness of breath x 1 week. Known to cardiology. O/E: tenderness over R iliac fossa. Impression: UTI, send MSU. Plan: discharge with safety net advice"
+adb7e0a8-f941-4c66-9d74-a5d9182c682e,89ffb9a8-b18f-4ae9-adde-ed2db4f0a85a,2017-11-24T09:30:06Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fall
+Duration: 30 minutes
+Severity: 3/10
+Allergies: Latex
+Meds: sertraline 50mg OD
+Notes: patient appears comfortable"
+336d540b-438d-4cd1-9ecd-c61577d20c30,cae10920-f977-48b4-a0d3-4d70ad561fd1,2008-07-04T23:35:03Z,ED_TRIAGE,urinary symptoms. 1 week. Tried rest without relief. Known to cardiology. Obs stable. Triaged as category 4.
+3a3c0137-8103-4883-9591-938067a48eef,e974e5c3-9b22-41f2-b3a3-c12848f29a73,2013-02-26T13:04:22Z,ED_TRIAGE,fall. 1 week. Tried ice pack without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+58004f17-a766-4fcb-910e-d009f8a75274,cae10920-f977-48b4-a0d3-4d70ad561fd1,2003-01-31T23:35:03Z,ED_TRIAGE,"CC: syncope
+HPI: 89 year old male with PMH of depression, anxiety presents with syncope for 2 hours. PMH: hypothyroidism
+Assessment: likely MSK, low risk"
+7968daee-9dd0-4237-883b-00b470d0fc64,6bac5e1a-692a-47a7-ba58-474ce3713644,1987-03-28T23:32:25Z,ED_TRIAGE,"Pt presents to ED with headache. Onset 2 days ago. Pain 6/10. PMH: IHD, prev MI 2019. Vitals: BP 110/67, HR 68, Temp 37.1. mechanical fall, no red flags"
+,d6a2da1f-ef65-4292-b637-8a0d6ac9b3ec,2017-04-02T22:37:34Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: cough
+Duration: 3 days
+Severity: 8/10
+Allergies: Codeine
+Meds: salbutamol PRN
+Notes: ambulance brought in, crew concerned"
+dad9c622-d4c1-4937-ab01-0c058a629bfd,c76902dd-7c4a-4c83-aee0-933dee295bac,2018-10-19T03:41:42Z,ED_TRIAGE,"35yo female presenting with cough x 1 week. Regular attender. O/E: GCS 15, oriented, no focal neurology. Impression: exacerbation of known COPD. Plan: CT head, neuro obs"
+0c3f5a56-35e8-419f-bc1a-8da1e06003c3,252fc319-ec89-43e4-b28c-184e9b5542b4,2013-09-24T02:03:16Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: syncope
+Duration: 1 week
+Severity: 6/10
+Allergies: Codeine
+Meds: metformin, ramipril
+Notes: ambulance brought in, crew concerned"
+2fa81dca-bb44-4e6c-ac04-73762e5e165d,6d8fdec1-d77d-4175-b250-f1bac5472b48,1944-12-15T04:54:18Z,ED_TRIAGE,"33yo male presenting with rash x 3 days. No significant PMH. O/E: swollen right ankle, unable to weight bear. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+dc16839d-7814-4b53-b7f6-123c63935702,08180c75-dd87-418f-95ff-06fb2f434713,1976-06-23T23:17:56Z,ED_TRIAGE,"Pt presents to ED with nausea and vomiting. Onset sudden. Pain 2/10. PMH: hypothyroidism. Vitals: BP 108/81, HR 95, Temp 39.0. ? ACS, needs serial troponins"
+edc76c12-9a7d-4c70-82fb-079200baae81,3b46f9a9-3447-441d-abd4-4f8e46f9e0c2,2001-09-06T00:25:04Z,ED_TRIAGE,"55yo female presenting with back pain x 2 hours. PMH: epilepsy. O/E: soft abdomen, no guarding. Impression: needs CT head given age and mechanism. Plan: CT head, neuro obs"
+bd5ba91f-8dcc-4150-97a1-d5a11c4bd3a9,608e39b8-367a-48d6-afc6-244e4c19c849,1999-01-02T13:25:58Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: dizziness
+Duration: 30 minutes
+Severity: 2/10
+Allergies: Nil known
+Meds: salbutamol PRN
+Notes: walked in from waiting room"
+8690cad1-8bbd-4981-b114-7be6869d0c43,40c83ae5-ba34-483e-b348-b558b44179ca,2003-10-25T08:43:46Z,ED_TRIAGE,fever. since yesterday. Tried paracetamol without relief. No significant PMH. Obs stable. Triaged as category 3.
+bb4e8bd2-5fea-4ae2-9e89-dd557730546f,fc37e0e0-789e-4c57-9fb1-faf457cf7912,2017-10-07T19:12:26Z,ED_TRIAGE,headache. 1 week. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+a75d6aaa-8bee-4371-a0d6-444ec97f16c0,ee6551d3-ea6d-498b-8117-b4ff3e5bd85e,2013-10-03T02:51:34Z,ED_TRIAGE,syncope. 30 minutes. Tried rest without relief. No significant PMH. Obs stable. Triaged as category 4.
+cb24473c-d802-4690-af8b-10f1b17501e5,6ec18ddf-e9ee-421a-9033-456f558c7b4b,1999-06-23T21:19:21Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: since yesterday
+Severity: 8/10
+Allergies: Codeine
+Meds: nil regular
+Notes: accompanied by family"
+e03b2377-01d4-4def-b6b0-743fac2b06e1,6f7f9443-cb21-4b03-8cdc-14ab4894c779,2019-03-17T17:42:20Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 3 days
+Severity: 10/10
+Allergies: Nil known
+Meds: metformin, ramipril
+Notes: accompanied by family"
+aecb36f6-4317-4e1e-95d3-5dc5adf5d0f9,fd3acd35-add1-4634-8c90-68ed0f638fde,2011-10-09T17:42:20Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset 2 days ago. Pain 1/10. Recent discharge from ward. Vitals: BP 170/90, HR 73, Temp 37.8. exacerbation of known COPD"
+defc93b5-a89a-4e5b-9b4d-f4ed108dc1dc,a1678674-817f-4454-b79d-f8a7396bc150,2018-03-11T03:15:59Z,ED_TRIAGE,fever. since yesterday. Tried over-the-counter antacids without relief. Known to cardiology. Obs stable. Triaged as category 1.
+ed53f9ba-ae9b-4c2c-96db-7962ae0ea59a,b37c9b35-6fea-4570-b7f6-379baf4c9399,2010-08-31T18:15:12Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 28 year old female with PMH of asthma presents with right ankle injury for 2 hours. PMH: nil significant
+Assessment: low risk chest pain, HEART score 2"
+9d9a2004-f0ce-4438-a2fd-28e3ee020b4d,04a849f4-1aaf-4112-a62f-d44df4325773,2011-04-06T20:13:17Z,ED_TRIAGE,"CC: fall
+HPI: 13 year old female with PMH of HTN, T2DM presents with fall for 3 days. PMH: CKD stage 3
+Assessment: ? ACS, needs serial troponins"
+2401c959-80be-4383-a724-617e4e7e62f6,3acf9313-1874-4dff-ab2a-3187516d92d6,2012-08-27T13:57:11Z,ED_TRIAGE,"95yo male presenting with rash x 3 days. Regular attender. O/E: tenderness over R iliac fossa. Impression: query appendicitis, surgical review requested. Plan: X-ray, analgesia, reassess"
+bcb186d1-96ae-4996-b763-6cff69d43f4e,b271a454-c57e-4566-899a-956e5484c5e1,2017-12-18T18:11:13Z,ED_TRIAGE,"CC: rash
+HPI: 32 year old male with PMH of depression, anxiety presents with rash for since yesterday. Recent discharge from ward
+Assessment: exacerbation of known COPD"
+9b63ef16-01fd-44f3-9537-9afa50ad6265,714b9c18-783d-4f52-aa64-cc3a05a286d9,1996-09-14T04:48:12Z,ED_TRIAGE,"Pt presents to ED with laceration to left hand. Onset gradual. Pain 7/10. No significant PMH. Vitals: BP 98/54, HR 127, Temp 37.3. needs CT head given age and mechanism"
+11bfd995-3368-44f1-ab4d-adaeb427e468,cb7b125f-b586-4ed2-9d0c-77f449f39d8b,2013-12-29T22:57:51Z,ED_TRIAGE,"48yo male presenting with shortness of breath x 1 week. Known to cardiology. O/E: soft abdomen, no guarding. Impression: viral URTI, supportive management. Plan: bloods, ECG, serial troponins"
+fcab862c-5683-4f96-ab7b-d2cc46d6ac6c,ba190ea7-9318-4b89-a17a-907a71ef24fa,1998-05-21T11:08:08Z,ED_TRIAGE,"Pt presents to ED with palpitations. Onset this morning. Pain 8/10. Regular attender. Vitals: BP 110/82, HR 75, Temp 37.6. mechanical fall, no red flags"
+265b1f28-b352-4dab-bc50-27c2226512ea,f290b494-c6de-40ee-98a3-ebb9d43cfd70,2020-04-18T22:00:44Z,ED_TRIAGE,"33yo female presenting with fever x 1 week. Known to cardiology. O/E: soft abdomen, no guarding. Impression: viral URTI, supportive management. Plan: bloods, ECG, serial troponins"
+fcad48c2-d337-474d-b5d3-af54906d3884,354aefa8-0bd5-4943-8f93-505cf038d48a,2018-12-08T22:28:38Z,ED_TRIAGE,"CC: cough
+HPI: 47 year old male with PMH of HTN, T2DM presents with cough for 2 hours. Regular attender
+Assessment: migraine, improving with analgesia"
+a14782d9-fee6-4ca8-9429-e5d367d2e584,9ec4030b-2529-4647-b325-b04c6b44874b,2018-09-26T15:17:08Z,ED_TRIAGE,palpitations. since yesterday. Tried over-the-counter antacids without relief. Known to cardiology. Obs stable. Triaged as category 5.
+09c0353b-7320-4ea2-aa7a-f7355f93b0ef,cae10920-f977-48b4-a0d3-4d70ad561fd1,2008-06-06T23:35:03Z,ED_TRIAGE,allergic reaction. 3 days. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 4.
+f686eba3-8e0f-433b-8e3b-7ef71322cc98,e98f6994-bee2-4238-bc9d-1997dd5a4260,2019-04-20T14:21:09Z,ED_TRIAGE,"laceration to left hand. 1 week. Tried rest without relief. PMH: depression, anxiety. Obs stable. Triaged as category 4."
+a92528ab-cf9e-4124-a935-091c81812ce2,b656a85d-637d-458a-abd8-17219816280f,2013-01-09T17:28:26Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: headache
+Duration: 2 hours
+Severity: 1/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+92296d4d-3ef0-4877-83fb-19916c8baf76,20c3ca32-ec09-4e7c-abab-9f7711cbe235,2012-03-10T12:08:54Z,ED_TRIAGE,"Pt presents to ED with headache. Onset 2 days ago. Pain 10/10. Known to cardiology. Vitals: BP 91/60, HR 86, Temp 37.4. viral URTI, supportive management"
+25eb0e7e-a832-4df6-82c6-486924068ebf,5bee22a4-3260-4bf7-9666-281fc8f1eeb9,2018-12-08T00:54:29Z,ED_TRIAGE,"CC: back pain
+HPI: 44 year old female with PMH of asthma presents with back pain for since yesterday. Recent discharge from ward
+Assessment: needs CT head given age and mechanism"
+1180a168-cedc-43ca-9bc4-37a8517915d8,b656a85d-637d-458a-abd8-17219816280f,2014-08-31T17:28:26Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: since yesterday
+Severity: 0/10
+Allergies: NKDA
+Meds: nil regular
+Notes: walked in from waiting room"
+6ce821c4-0d15-4697-97d8-72ba1773850d,55301b9d-4de5-4ab7-a727-579258ce4e71,2019-05-18T05:26:39Z,ED_TRIAGE,"Pt presents to ED with cough. Onset this morning. Pain 1/10. Recent discharge from ward. Vitals: BP 120/87, HR 106, Temp 39.0. exacerbation of known COPD"
+bb246bbc-e328-42a0-9f2a-0b7925263c74,844d1c39-6ca2-48df-a3de-f9a12633f69c,2017-06-07T08:21:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fall
+Duration: 30 minutes
+Severity: 0/10
+Allergies: Codeine
+Meds: nil regular
+Notes: accompanied by family"
+36999a8b-7802-4be2-93c9-055aebacb51b,8b570796-e100-47cd-a634-dbc8cd35857e,2009-04-04T18:44:55Z,ED_TRIAGE,"CC: allergic reaction
+HPI: 91 year old male with PMH of hypothyroidism presents with allergic reaction for 2 hours. Known to cardiology
+Assessment: low risk chest pain, HEART score 2"
+76f7d7c8-5838-42d0-baf6-b466fe9c7e3d,16fe231f-5db5-4213-9ce0-ba1944eac066,1990-06-01T11:02:24Z,ED_TRIAGE,"CC: back pain
+HPI: 35 year old female with PMH of hypothyroidism presents with back pain for since yesterday. No significant PMH
+Assessment: exacerbation of known COPD"
+10858d74-4c12-4096-a6f2-3a7b2d1e841a,33c2184c-bda1-4d31-b0cb-4f18c46822da,2018-04-03T15:08:54Z,ED_TRIAGE,"Pt presents to ED with dizziness. Onset 2 days ago. Pain 9/10. No significant PMH. Vitals: BP 125/88, HR 70, Temp 36.4. exacerbation of known COPD"
+a1f394a1-35bb-4b90-8cdc-53a901e805cf,78ddb775-9cd7-46c6-87b9-277a2a92c72b,2018-10-30T06:35:06Z,ED_TRIAGE,"CC: chest pain
+HPI: 0 year old female with PMH of rheumatoid arthritis presents with chest pain for 30 minutes. Known to cardiology
+Assessment: query appendicitis, surgical review requested"
+145eeda1-4650-46c2-b193-9a953782f906,1e3b1126-641f-4495-a31c-19cb9bed9d25,2010-09-12T01:18:05Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset 2 days ago. Pain 10/10. Regular attender. Vitals: BP 104/76, HR 85, Temp 38.8. UTI, send MSU"
+7e81db5e-9bc3-4698-8964-d116b3eea3ce,ccbd3a61-50ff-4f6f-8d64-8105c3fc54cf,1994-08-31T12:46:01Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: rash
+Duration: 3 days
+Severity: 9/10
+Allergies: NKDA
+Meds: sertraline 50mg OD
+Notes: accompanied by family"
+6875c874-eec8-4a08-a7b2-e26ed079290a,88159e4d-29e0-4f53-a821-e9cc3faf21b4,2018-01-05T08:20:16Z,ED_TRIAGE,"17yo female presenting with headache x since yesterday. Recent discharge from ward. O/E: soft abdomen, no guarding. Impression: low risk chest pain, HEART score 2. Plan: bloods, ECG, serial troponins"
+43aa8578-32e0-4a8f-ac01-09bedb9b6cd8,51f196eb-b11e-493e-ad95-254285af055e,1966-01-23T06:34:39Z,ED_TRIAGE,"CC: confusion
+HPI: 2 year old female with PMH of hypothyroidism presents with confusion for 3 days. PMH: HTN, T2DM
+Assessment: viral URTI, supportive management"
+0c17f9f2-dc90-49f6-a965-3841379f1b5a,1a7e8f38-95df-4c27-8897-21ed04c3b98b,2008-04-24T20:06:53Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 65 year old male with PMH of CKD stage 3 presents with shortness of breath for since yesterday. Known to cardiology
+Assessment: needs CT head given age and mechanism"
+82b9035e-6f51-48b9-a65b-53fff94c318d,eb17a151-7936-4b4b-a492-8c1ba9d1cc3b,1996-10-02T04:19:51Z,ED_TRIAGE,"Pt presents to ED with nausea and vomiting. Onset this morning. Pain 4/10. No significant PMH. Vitals: BP 140/79, HR 121, Temp 36.8. low risk chest pain, HEART score 2"
+bb9bb41f-d5d0-4a79-8571-a21461ba3e82,03612a7e-6460-4ef6-9528-59d60f970b93,2014-09-16T12:21:33Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset this morning. Pain 7/10. Known to cardiology. Vitals: BP 110/97, HR 102, Temp 36.3. exacerbation of known COPD"
+ac844630-37df-47cd-8955-064bb19f7901,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,2018-12-14T08:37:29Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: since yesterday
+Severity: 5/10
+Allergies: Penicillin
+Meds: nil regular
+Notes: ambulance brought in, crew concerned"
+3de27a4d-14c6-4991-a149-77657683348b,92d23553-700d-488f-83a5-2ba9b9544295,2015-12-17T07:35:24Z,ED_TRIAGE,"Pt presents to ED with cough. Onset 1 week ago. Pain 0/10. Known to cardiology. Vitals: BP 106/85, HR 88, Temp 38.1. needs CT head given age and mechanism"
+13849697-a2f8-48e5-b42d-231582cbdecb,1968aa31-5fce-461a-9486-6e385a7b75e7,2019-04-13T06:18:48Z,ED_TRIAGE,confusion. 2 hours. Tried rest without relief. No significant PMH. Obs stable. Triaged as category 2.
+c3446da0-4c12-4024-bfe3-539e6ff76fb3,0c5aa52a-3b1d-4289-af16-29f7a2d07fec,2016-11-13T14:28:07Z,ED_TRIAGE,seizure. 30 minutes. Tried rest without relief. Known to cardiology. Obs stable. Triaged as category 4.
+ef4153db-bb4d-4c6b-9420-d541225a0eff,9e5a9e59-cfe3-42de-8c2e-76ef7e2efa5f,1989-09-26T11:08:08Z,ED_TRIAGE,confusion. 2 hours. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 2.
+ec6923b5-19bf-4760-9404-87b16288d7ae,36cfc9c6-c720-41a3-ba03-bc9d11840564,2015-04-10T15:33:30Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 1 week
+Severity: 1/10
+Allergies: Nil known
+Meds: nil regular
+Notes: appears distressed"
+edf68e89-def4-4366-9515-9005dc5aa20b,6d3480e3-45a3-4f7c-b97e-0901dc6c8b05,2013-01-29T10:20:45Z,ED_TRIAGE,"2yo female presenting with right ankle injury x 3 days. Regular attender. O/E: clear chest bilaterally. Impression: ? ACS, needs serial troponins. Plan: discharge with safety net advice"
+ed8012c4-5725-48ed-b7e5-c7b7030a1b86,cae10920-f977-48b4-a0d3-4d70ad561fd1,2001-04-13T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 3 days
+Severity: 4/10
+Allergies: Latex
+Meds: salbutamol PRN
+Notes: patient appears comfortable"
+1cd8acf1-61de-4160-b037-e9b871963832,32fbdecd-7987-4efb-9b6e-4c8e460cbd66,2016-09-20T02:02:39Z,ED_TRIAGE,"Pt presents to ED with fever. Onset 2 days ago. Pain 0/10. No significant PMH. Vitals: BP 158/81, HR 102, Temp 37.9. UTI, send MSU"
+75a303e1-5bad-493c-89ee-ea235d8e4973,96942a16-75bc-4026-bd63-e985b0ca1d6d,2010-08-17T05:25:41Z,ED_TRIAGE,rash. 30 minutes. Tried paracetamol without relief. No significant PMH. Obs stable. Triaged as category 4.
+32c232c3-6f9e-4dd3-a6ea-b9e0b984e299,a6028f3c-c013-44af-97ff-949dd2096ed3,2018-03-11T13:55:22Z,ED_TRIAGE,"71yo female presenting with syncope x 1 week. Regular attender. O/E: soft abdomen, no guarding. Impression: exacerbation of known COPD. Plan: bloods, ECG, serial troponins"
+5e98d536-cc1e-4b94-b0aa-1dcf883ec25a,2c3932da-bde3-4d3c-a790-ff3b0fc4fb53,2017-04-01T20:06:53Z,ED_TRIAGE,"74yo male presenting with urinary symptoms x 30 minutes. Recent discharge from ward. O/E: clear chest bilaterally. Impression: UTI, send MSU. Plan: discharge with safety net advice"
+1ac26faf-f240-4fac-a58b-b85bc29f79ad,defd47cc-95c0-4302-a284-6038e986d672,2005-12-16T13:25:58Z,ED_TRIAGE,overdose. 30 minutes. Tried paracetamol without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+63f652b4-a23f-40c2-a1aa-3097acba7324,01e1f394-7219-4189-bceb-3cbd90cff90b,2011-04-13T14:39:24Z,ED_TRIAGE,"Pt presents to ED with seizure. Onset gradual. Pain 2/10. Regular attender. Vitals: BP 146/89, HR 124, Temp 38.8. migraine, improving with analgesia"
+500b5598-e314-474c-b995-d1eef259bddd,d8b07feb-551d-4b3c-9733-c468b8104f0c,2011-10-01T08:19:41Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 60 year old female with PMH of nil significant presents with nausea and vomiting for since yesterday. Known to cardiology
+Assessment: mechanical fall, no red flags"
+001ed2aa-e772-4407-9902-38ef70bd1a1e,88ea8573-863c-47e3-b144-b810c63156a0,2011-10-06T08:31:45Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fever
+Duration: 30 minutes
+Severity: 10/10
+Allergies: Penicillin
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+e7d0ee95-6648-4e70-a81f-be08751bc3d5,cae10920-f977-48b4-a0d3-4d70ad561fd1,2004-10-22T23:35:03Z,ED_TRIAGE,"91yo male presenting with rash x 3 days. PMH: rheumatoid arthritis. O/E: swollen right ankle, unable to weight bear. Impression: exacerbation of known COPD. Plan: CT head, neuro obs"
+339d0e40-1f9a-4959-8bba-aef784b07307,be3eaf02-0c8a-4729-8b6e-7b40ab016e29,2004-08-11T00:59:10Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fever
+Duration: 1 week
+Severity: 1/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+11d70dbe-78ce-422c-856f-65c9a28d41f4,5a8c7f6d-b15c-4c55-b299-5bf8c2b35ad4,2014-02-12T03:55:02Z,ED_TRIAGE,"20yo female presenting with fever x 2 hours. Recent discharge from ward. O/E: GCS 15, oriented, no focal neurology. Impression: UTI, send MSU. Plan: IV fluids, antiemetics"
+96f78a6f-3e94-42ef-8d0c-73b2d8ee453d,8be62b06-5994-47fe-aad8-a27a02e054fa,2012-01-04T13:12:11Z,ED_TRIAGE,palpitations. 3 days. Tried paracetamol without relief. Known to cardiology. Obs stable. Triaged as category 3.
+9f04541a-dce0-41ab-8c2d-223664765186,8ebc4167-461c-4634-86b8-78b89a36e49c,1995-06-01T12:21:33Z,ED_TRIAGE,palpitations. 3 days. Tried ice pack without relief. Regular attender. Obs stable. Triaged as category 2.
+76759018-e32d-4b0f-8bbd-50bb66fc1894,097f7be5-fdc1-42a8-b54b-65eb48c12cf1,1995-10-18T22:37:34Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset gradual. Pain 7/10. PMH: CKD stage 3. Vitals: BP 94/105, HR 70, Temp 38.8. ? ACS, needs serial troponins"
+a1291db9-8aa0-4c9d-9893-acc67b37ad1e,b4f1aa40-1a13-43cc-9528-8dcde700ecf0,2018-06-12T02:57:15Z,ED_TRIAGE,"Pt presents to ED with back pain. Onset this morning. Pain 1/10. Recent discharge from ward. Vitals: BP 136/95, HR 85, Temp 37.6. query appendicitis, surgical review requested"
+ff6a8f49-4b95-4ab9-8dd2-65b2bf27554f,8fd4e053-b318-44d7-9401-0ca84b4d1347,2002-03-01T20:01:15Z,ED_TRIAGE,"38yo female presenting with urinary symptoms x 3 days. No significant PMH. O/E: swollen right ankle, unable to weight bear. Impression: needs CT head given age and mechanism. Plan: X-ray, analgesia, reassess"
+7725676b-0d01-4216-a21f-fce46a95a901,9d69e626-c968-4991-a486-79f4eab4db38,2000-08-26T16:56:14Z,ED_TRIAGE,"CC: back pain
+HPI: 13 year old male with PMH of epilepsy presents with back pain for since yesterday. PMH: depression, anxiety
+Assessment: needs CT head given age and mechanism"
+bfa39dbf-0707-4129-9446-6ae1331ecbbb,9e1b6e6e-295d-418c-a94f-b2c69978d13e,1969-11-04T11:04:18Z,ED_TRIAGE,"CC: urinary symptoms
+HPI: 16 year old male with PMH of depression, anxiety presents with urinary symptoms for 2 hours. Known to cardiology
+Assessment: exacerbation of known COPD"
+0b08c211-9ff7-4851-ac21-8df5b22c6711,9077ab04-92a1-4189-aa2b-93e50a5c32ae,2015-10-21T01:51:56Z,ED_TRIAGE,chest pain. 2 hours. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 3.
+64f4443e-6b9a-4f0f-be13-83c4ab2406e7,85a0da4b-6e8d-492c-976b-748e39daf4ef,2014-07-08T15:08:21Z,ED_TRIAGE,"Pt presents to ED with fall. Onset sudden. Pain 10/10. Known to cardiology. Vitals: BP 111/73, HR 106, Temp 37.7. low risk chest pain, HEART score 2"
+86321cc6-e9d0-4a82-be35-f67deb86c4be,7a297104-f0bd-4ca6-aa19-c910e2a45f01,2011-11-07T03:33:10Z,ED_TRIAGE,"44yo male presenting with confusion x 2 hours. PMH: HTN, T2DM. O/E: soft abdomen, no guarding. Impression: mechanical fall, no red flags. Plan: CT head, neuro obs"
+ee3b32d5-d11f-4310-a239-cff96ddfb8f0,eabd08f9-513a-40a9-8932-d7e166b9941a,2016-03-20T02:15:50Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 2 hours
+Severity: 2/10
+Allergies: Codeine
+Meds: metformin, ramipril
+Notes: walked in from waiting room"
+96111673-1307-4299-b771-5496d391636d,7e4e6d32-15cd-4d5f-a4cc-e5c95ab35eb0,2016-03-05T09:14:06Z,ED_TRIAGE,"CC: back pain
+HPI: 53 year old female with PMH of depression, anxiety presents with back pain for since yesterday. Regular attender
+Assessment: query appendicitis, surgical review requested"
+f695a017-d19b-432c-b85f-de2fefa238b2,475b2a8b-19a0-451a-b965-9c6bebf16434,2019-06-28T23:35:03Z,ED_TRIAGE,"Pt presents to ED with fall. Onset 1 week ago. Pain 6/10. Recent discharge from ward. Vitals: BP 137/89, HR 98, Temp 36.5. viral URTI, supportive management"
+7818e6ed-8401-4ffa-92da-72cebeedc0c9,07b30273-070e-47c7-9617-d12785a4c9d5,1990-06-21T19:57:35Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: seizure
+Duration: 1 week
+Severity: 7/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: accompanied by family"
+6e0c165f-b02b-4180-b037-28776f294cbb,a694ecfc-e39e-46dc-876e-029b32ba0135,2013-07-30T09:40:35Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset this morning. Pain 6/10. PMH: IHD, prev MI 2019. Vitals: BP 146/55, HR 116, Temp 38.2. likely MSK, low risk"
+cd23968c-06fe-4cc5-bc13-d4439e4d47e8,6ec18ddf-e9ee-421a-9033-456f558c7b4b,2004-12-29T21:19:21Z,ED_TRIAGE,"CC: allergic reaction
+HPI: 67 year old male with PMH of nil significant presents with allergic reaction for 1 week. Recent discharge from ward
+Assessment: query appendicitis, surgical review requested"
+58807f5b-e0bb-47d0-8e83-3e73d7bcd621,d5bf8e49-c70c-45df-9675-cf3dff4458d5,2017-09-26T04:26:53Z,ED_TRIAGE,"Pt presents to ED with headache. Onset this morning. Pain 3/10. No significant PMH. Vitals: BP 111/72, HR 105, Temp 38.7. migraine, improving with analgesia"
+49d6c69e-10c5-4349-aa8a-0052dea7e71c,ca24f616-30cc-4351-aca9-1b49297de076,1997-08-01T20:06:53Z,ED_TRIAGE,chest pain. since yesterday. Tried rest without relief. Known to cardiology. Obs stable. Triaged as category 3.
+cf2f8f27-1046-4822-91da-55ed6f11e4a3,799d0738-d5cd-4161-bdb8-e3c49e21ec66,2019-08-15T21:35:53Z,ED_TRIAGE,"CC: fever
+HPI: 79 year old male with PMH of nil significant presents with fever for 30 minutes. Regular attender
+Assessment: migraine, improving with analgesia"
+c99a2fc6-ae43-4101-8e35-3da08ddf6e4e,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,2013-03-08T08:37:29Z,ED_TRIAGE,"CC: urinary symptoms
+HPI: 61 year old male with PMH of COPD, AF presents with urinary symptoms for 3 days. Regular attender
+Assessment: ? ACS, needs serial troponins"
+227fa574-a843-4299-bb3c-c9d9504a16a0,c2b13854-9810-4c78-93be-08f0b6523e8f,2014-07-18T03:54:32Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: 3 days
+Severity: 2/10
+Allergies: Codeine
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: appears distressed"
+6bcf06b4-4ca6-4958-ae9c-da2306b8715e,c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,1971-07-07T04:21:46Z,ED_TRIAGE,"CC: rash
+HPI: 6 year old female with PMH of CKD stage 3 presents with rash for 2 hours. No significant PMH
+Assessment: viral URTI, supportive management"
+fc44203c-ca4e-444e-872b-ad4e3ef002ae,3886269a-5118-4f12-95fe-6c5440b53c0d,1995-02-22T20:03:59Z,ED_TRIAGE,"1yo female presenting with cough x 2 hours. No significant PMH. O/E: tenderness over R iliac fossa. Impression: exacerbation of known COPD. Plan: bloods, ECG, serial troponins"
+4800e158-03be-4b29-ac1b-97ba3b14c4bc,08180c75-dd87-418f-95ff-06fb2f434713,1979-05-22T23:17:56Z,ED_TRIAGE,fever. 30 minutes. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+8d5259d2-46ac-4e16-8407-cab80a3e92b0,04a849f4-1aaf-4112-a62f-d44df4325773,2020-01-17T20:13:17Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 2 hours
+Severity: 5/10
+Allergies: Codeine
+Meds: nil regular
+Notes: walked in from waiting room"
+d4723743-3b97-4289-91bc-7b2bc377c986,80f7a79f-61f1-4ec3-a2c7-226611a54044,2020-03-31T05:40:02Z,ED_TRIAGE,right ankle injury. 3 days. Tried ice pack without relief. PMH: epilepsy. Obs stable. Triaged as category 1.
+8024f317-fa7d-4246-9d48-0ff651b67da0,58100357-85b6-4334-bc2a-8998c24a4812,2010-07-15T05:38:06Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset gradual. Pain 10/10. PMH: HTN, T2DM. Vitals: BP 120/80, HR 130, Temp 36.9. mechanical fall, no red flags"
+7e39df8e-7f90-4e2e-b07d-09f986a4f42b,f1e65288-3df1-4bb4-b67e-b41d6f1385a2,1988-06-25T20:06:38Z,ED_TRIAGE,laceration to left hand. 3 days. Tried ibuprofen without relief. No significant PMH. Obs stable. Triaged as category 2.
+0a87e905-d795-4154-b461-8f4c2680740b,137acc1b-dbca-473e-84bb-fe1baaf98819,1966-08-21T19:05:21Z,ED_TRIAGE,"CC: seizure
+HPI: 54 year old male with PMH of epilepsy presents with seizure for 3 days. Recent discharge from ward
+Assessment: viral URTI, supportive management"
+73ef4342-a237-44ab-a172-a9423d8fba49,058590f8-c0f3-40c1-ac80-246437499d5d,2017-08-24T18:48:50Z,ED_TRIAGE,headache. 3 days. Tried ibuprofen without relief. No significant PMH. Obs stable. Triaged as category 2.
+500d849b-595d-4ba4-a527-586aa11af575,2f76733b-933c-4cc5-aea2-53799158c8cc,2015-11-10T07:02:15Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: chest pain
+Duration: since yesterday
+Severity: 5/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: walked in from waiting room"
+8bf4329c-7555-4b8d-9755-fc1d7beb4a00,cd1d1f54-e4ea-458e-a264-b3e9c57d902e,2016-12-16T17:23:12Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: abdominal pain
+Duration: 1 week
+Severity: 3/10
+Allergies: Penicillin
+Meds: nil regular
+Notes: patient appears comfortable"
+34518d33-3d10-4886-a15a-407ab6b312f0,1d4f63d2-ddc0-47bc-b2cc-6f58068a5901,2016-01-09T06:26:25Z,ED_TRIAGE,right ankle injury. since yesterday. Tried ibuprofen without relief. Regular attender. Obs stable. Triaged as category 1.
+d840ad27-d03b-45bb-92fc-f939c8223e16,c563f50c-54a9-4b37-9028-bff3db7e3e27,2013-02-23T11:11:47Z,ED_TRIAGE,cough. 2 hours. Tried over-the-counter antacids without relief. No significant PMH. Obs stable. Triaged as category 2.
+7d075f37-08ce-447f-a78b-8f0951a6c238,c986f01b-c0d0-46c6-809f-ca215706aa1d,2011-08-02T17:55:30Z,ED_TRIAGE,syncope. 3 days. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 1.
+b99ebbbf-80e2-4c0a-b6fb-3e1dfe769d4c,c868a615-b3a7-44c6-ad66-d06b2909d689,2000-07-30T15:33:45Z,ED_TRIAGE,"8yo female presenting with abdominal pain x 2 hours. Regular attender. O/E: tenderness over R iliac fossa. Impression: UTI, send MSU. Plan: IV fluids, antiemetics"
+419ac239-c1a3-459b-ae74-6e188c53a1bc,cae10920-f977-48b4-a0d3-4d70ad561fd1,2002-11-01T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fall
+Duration: 1 week
+Severity: 9/10
+Allergies: Codeine
+Meds: nil regular
+Notes: patient appears comfortable"
+0eba825d-2cfc-4362-9955-4d13650ac6c8,a3abc11b-0fd1-4eb9-a69a-9075b4737612,1980-12-14T19:05:21Z,ED_TRIAGE,"69yo male presenting with fall x 1 week. Regular attender. O/E: soft abdomen, no guarding. Impression: mechanical fall, no red flags. Plan: CT head, neuro obs"
+1a386093-1407-4a0f-87c6-5a3135573e8a,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,2014-01-10T20:52:23Z,ED_TRIAGE,abdominal pain. since yesterday. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 2.
+29c2e656-d789-46e8-9bca-fec9dbc5beb3,6ec18ddf-e9ee-421a-9033-456f558c7b4b,2005-01-19T21:19:21Z,ED_TRIAGE,"67yo male presenting with nausea and vomiting x 3 days. PMH: asthma. O/E: swollen right ankle, unable to weight bear. Impression: likely MSK, low risk. Plan: X-ray, analgesia, reassess"
+c903f55c-a79e-4cfd-819a-590bbe8d6408,b0c26ab6-b914-4bb7-8cf0-e390b6411df0,2011-10-29T04:17:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: urinary symptoms
+Duration: 1 week
+Severity: 3/10
+Allergies: NKDA
+Meds: nil regular
+Notes: patient appears comfortable"
+82f40842-e4e4-4281-9c25-7ac9eda8098c,9ec4030b-2529-4647-b325-b04c6b44874b,2015-08-28T15:17:08Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset 1 week ago. Pain 0/10. Recent discharge from ward. Vitals: BP 145/87, HR 100, Temp 38.5. likely MSK, low risk"
+6a287113-a24b-4768-bf8a-31b3c6c345f2,cae10920-f977-48b4-a0d3-4d70ad561fd1,2008-08-08T23:35:03Z,ED_TRIAGE,"95yo male presenting with shortness of breath x 3 days. PMH: HTN, T2DM. O/E: soft abdomen, no guarding. Impression: likely MSK, low risk. Plan: IV fluids, antiemetics"
+38f3fbc3-ec0f-40e1-853e-cab350c3504f,0325261f-61eb-46f8-acc6-89d15053fecd,2004-11-09T13:04:22Z,ED_TRIAGE,"Pt presents to ED with fever. Onset this morning. Pain 9/10. Recent discharge from ward. Vitals: BP 128/78, HR 56, Temp 38.3. query appendicitis, surgical review requested"
+33b810e9-c8c7-490f-84d2-3302dcb9694d,3acf9313-1874-4dff-ab2a-3187516d92d6,2011-01-03T13:57:11Z,ED_TRIAGE,fall. 3 days. Tried rest without relief. PMH: hypothyroidism. Obs stable. Triaged as category 1.
+10b38a65-ebff-46a7-a863-253729e08750,ab41f97a-1f4a-4718-a760-1e112514f282,2005-10-23T10:35:20Z,ED_TRIAGE,"Pt presents to ED with chest pain. Onset 1 week ago. Pain 10/10. Known to cardiology. Vitals: BP 97/59, HR 106, Temp 38.4. viral URTI, supportive management"
+b0c3ff6c-0937-4786-97cb-c519d1ef7e15,2c71dd97-7085-416a-aa07-d675bbe3adf2,2011-12-23T20:51:21Z,ED_TRIAGE,"70yo female presenting with fever x 3 days. PMH: nil significant. O/E: soft abdomen, no guarding. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+3109d59b-a3c6-4473-bb12-85879364366a,8aeeef59-43b3-4983-8f1d-54f3e8d5ea92,2012-08-06T06:36:13Z,ED_TRIAGE,"CC: abdominal pain
+HPI: 24 year old male with PMH of epilepsy presents with abdominal pain for since yesterday. Regular attender
+Assessment: needs CT head given age and mechanism"
+b91c7451-3dfd-46a3-ae66-39cd287fd0a5,3acf9313-1874-4dff-ab2a-3187516d92d6,2011-08-01T13:57:11Z,ED_TRIAGE,"Pt presents to ED with urinary symptoms. Onset gradual. Pain 4/10. Known to cardiology. Vitals: BP 138/88, HR 99, Temp 37.1. exacerbation of known COPD"
+a95d2697-255a-4bd5-ab2d-5444a1538c22,9c4c1885-35af-48b9-a09f-4ea448d40d75,2013-08-20T13:04:22Z,ED_TRIAGE,urinary symptoms. 2 hours. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+656dff1d-cac8-42e5-8035-b9cfb1519fbc,4eb14734-102d-442d-b683-809b100a1dea,2012-06-01T11:22:11Z,ED_TRIAGE,"CC: fall
+HPI: 43 year old female with PMH of CKD stage 3 presents with fall for since yesterday. Regular attender
+Assessment: low risk chest pain, HEART score 2"
+7cb002fc-919e-48a0-a164-aebdce2608aa,817d7365-56fc-43f6-845e-ea9f5623d1aa,2019-06-12T05:42:08Z,ED_TRIAGE,seizure. 2 hours. Tried over-the-counter antacids without relief. No significant PMH. Obs stable. Triaged as category 4.
+533ffea6-5356-4934-a7e0-b35c615aa156,e1146189-55f3-4bad-9ee3-beca009d27a5,2018-01-03T19:39:02Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: seizure
+Duration: 30 minutes
+Severity: 2/10
+Allergies: Penicillin
+Meds: metformin, ramipril
+Notes: appears distressed"
+5ec35652-ebec-4fd9-a466-9cb6f66e8a02,3042d51b-e7b8-4135-8b68-fb7a88ced16c,2013-11-13T07:34:58Z,ED_TRIAGE,nausea and vomiting. since yesterday. Tried paracetamol without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+0ef84502-14ca-4efa-b6b2-fc6958183dd4,e234ae17-7d4d-4d7f-8eb6-38edc1ebebc2,1994-10-22T04:54:18Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 82 year old male with PMH of rheumatoid arthritis presents with shortness of breath for since yesterday. Recent discharge from ward
+Assessment: low risk chest pain, HEART score 2"
+ff0f6fcc-ebbf-4d49-bff2-d01fdab5c5ed,7ea10b44-ec00-4907-b17f-87d47b04827d,2017-09-12T05:17:11Z,ED_TRIAGE,"32yo male presenting with fever x 3 days. PMH: asthma. O/E: clear chest bilaterally. Impression: exacerbation of known COPD. Plan: bloods, ECG, serial troponins"
+765fe622-1aec-47ab-a868-895fad32ca36,7c6d7838-6453-4e4a-817e-39c8c387f986,1968-02-18T09:30:42Z,ED_TRIAGE,"53yo male presenting with shortness of breath x 30 minutes. No significant PMH. O/E: soft abdomen, no guarding. Impression: mechanical fall, no red flags. Plan: IV fluids, antiemetics"
+deda4b5d-2f87-4033-8bfb-95c92fc84578,03172f6e-fb21-4770-8eef-513730174ab7,1963-10-30T09:16:22Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 2 year old female with PMH of nil significant presents with right ankle injury for 30 minutes. PMH: nil significant
+Assessment: needs CT head given age and mechanism"
+79b50a6b-bc67-4f1e-a8ba-7ef6ef4f141d,3c851902-c01a-499c-bf65-00125386275f,2008-11-18T20:52:27Z,ED_TRIAGE,"Pt presents to ED with palpitations. Onset sudden. Pain 4/10. PMH: rheumatoid arthritis. Vitals: BP 116/74, HR 81, Temp 39.3. exacerbation of known COPD"
+721b253a-b68d-4067-94c5-7a31d681c976,dda6a788-814a-48f2-8ebe-bc57e4cefd92,2000-10-19T16:22:51Z,ED_TRIAGE,"Pt presents to ED with chest pain. Onset sudden. Pain 6/10. Known to cardiology. Vitals: BP 93/52, HR 127, Temp 37.0. ? ACS, needs serial troponins"
+2d560b32-9d00-4503-bc80-d587b94d1f9e,257af8d7-ba2c-4394-9a30-691e6f80d8a6,2010-12-19T05:31:28Z,ED_TRIAGE,chest pain. 30 minutes. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 3.
+7fa34a80-2708-414b-890b-bc153332b422,cae10920-f977-48b4-a0d3-4d70ad561fd1,2004-01-30T23:35:03Z,ED_TRIAGE,laceration to left hand. 1 week. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 1.
+73f85df2-928d-4702-8293-c6abe6f971a6,89105f2f-cfa9-429c-98bf-747f68567ea1,2013-09-19T15:29:43Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: palpitations
+Duration: 3 days
+Severity: 4/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: walked in from waiting room"
+755b0c04-3c0f-4da1-8a02-793fc01bc3bb,9043026f-7d60-4b65-9c54-8ae48769ea00,2013-11-01T14:29:34Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 51 year old female with PMH of rheumatoid arthritis presents with right ankle injury for 3 days. PMH: nil significant
+Assessment: low risk chest pain, HEART score 2"
+9cd44d87-cd58-4bcd-8318-52cb3d4a344b,6ec4e56c-9a9d-49c8-8fbe-cfef93c14b6b,2012-07-14T11:02:51Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 15 year old male with PMH of CKD stage 3 presents with shortness of breath for 30 minutes. No significant PMH
+Assessment: viral URTI, supportive management"
+26a44513-64b8-41ce-9753-d3ddb7c4f092,0ec17b30-0776-4c70-8735-a09dfc709d3c,2010-01-13T12:00:58Z,ED_TRIAGE,"CC: fall
+HPI: 43 year old female with PMH of COPD, AF presents with fall for 3 days. No significant PMH
+Assessment: low risk chest pain, HEART score 2"
+6e796b87-9f28-47fc-ac74-be60facc59d0,c9e63df1-a715-4c9e-b76c-e31ec0fc3e96,2016-10-08T18:22:49Z,ED_TRIAGE,shortness of breath. 30 minutes. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 4.
+ec0d9c93-a60e-485d-8778-342523780bd5,d07f23f8-3bd1-4db1-9a36-51aedbe60821,1991-12-11T00:54:28Z,ED_TRIAGE,nausea and vomiting. 1 week. Tried ice pack without relief. Regular attender. Obs stable. Triaged as category 3.
+2985795e-11e1-458e-9fd2-c2e4ab36e89f,59486a8b-389b-4355-9df4-edc62bbd1a11,2017-10-12T08:39:57Z,ED_TRIAGE,"Pt presents to ED with back pain. Onset gradual. Pain 2/10. Recent discharge from ward. Vitals: BP 145/104, HR 89, Temp 36.3. likely MSK, low risk"
+920eda1f-4124-42aa-8ef3-ea8d3441e3a8,16fe231f-5db5-4213-9ce0-ba1944eac066,1974-02-28T11:02:24Z,ED_TRIAGE,"19yo female presenting with syncope x 3 days. Regular attender. O/E: clear chest bilaterally. Impression: query appendicitis, surgical review requested. Plan: discharge with safety net advice"
+704eb966-fab1-448d-a0b2-a801827cc3fd,841095eb-d29f-4492-8f0e-08011321e85d,2019-11-24T11:48:11Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 2 year old male with PMH of hypothyroidism presents with nausea and vomiting for 30 minutes. Recent discharge from ward
+Assessment: likely MSK, low risk"
+75d478e5-30e5-48d6-980b-dbe9fde43d10,2a843035-9957-46ee-8b11-eb8afebe4242,2019-05-29T13:14:34Z,ED_TRIAGE,"overdose. 30 minutes. Tried over-the-counter antacids without relief. PMH: COPD, AF. Obs stable. Triaged as category 2."
+7969917c-dfdf-409c-92a3-2a46fab45382,b5bbfa23-0c80-4762-a3b9-97ceebed8d27,2016-07-18T06:09:18Z,ED_TRIAGE,"54yo female presenting with cough x since yesterday. Recent discharge from ward. O/E: GCS 15, oriented, no focal neurology. Impression: likely MSK, low risk. Plan: bloods, ECG, serial troponins"
+3d4d83ec-3461-4d52-bdbf-c9807614e1e5,144edc8e-936e-42d7-8e7d-f3578cf80cc2,2011-07-17T18:04:39Z,ED_TRIAGE,cough. since yesterday. Tried rest without relief. Regular attender. Obs stable. Triaged as category 4.
+bf72df79-0d4b-463c-99e2-cfbab0a2609b,7d2e09cb-ceda-47d6-8cb2-5e1eb725665d,2015-02-25T22:32:46Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset gradual. Pain 2/10. PMH: CKD stage 3. Vitals: BP 103/69, HR 89, Temp 36.6. mechanical fall, no red flags"
+48171e16-e3d1-47f1-a19b-2e8a85a06146,6ec4e56c-9a9d-49c8-8fbe-cfef93c14b6b,2019-03-01T11:02:51Z,ED_TRIAGE,"CC: fever
+HPI: 21 year old male with PMH of CKD stage 3 presents with fever for 30 minutes. Regular attender
+Assessment: likely MSK, low risk"
+7992d125-bad4-41f7-b4f8-8f1799a58c48,e112cedd-a98e-489e-abb0-875420d40397,2014-04-06T23:07:53Z,ED_TRIAGE,"CC: allergic reaction
+HPI: unknown year old female with PMH of CKD stage 3 presents with allergic reaction for 2 hours. Regular attender
+Assessment: viral URTI, supportive management"
+7107a90d-86c4-4c07-b57a-ade1bbe4ef83,acb4817f-0ece-41d8-b179-82397a95a44a,2016-11-28T10:14:59Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 33 year old female with PMH of rheumatoid arthritis presents with shortness of breath for 1 week. PMH: HTN, T2DM
+Assessment: migraine, improving with analgesia"
+06db9d13-5187-4737-97d1-09aec0a20cdf,6dafa93d-3698-4124-9bbd-7429cc2a7374,1968-10-01T13:32:35Z,ED_TRIAGE,"15yo male presenting with laceration to left hand x 3 days. No significant PMH. O/E: swollen right ankle, unable to weight bear. Impression: likely MSK, low risk. Plan: X-ray, analgesia, reassess"
+24cd8a81-33cb-4796-a6c2-5746d59d5083,703e4c46-ded2-4797-97fe-57fedda2825f,2015-01-09T05:03:53Z,ED_TRIAGE,confusion. since yesterday. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 2.
+28110374-b0ee-4dec-837f-ba28660996a8,3acf9313-1874-4dff-ab2a-3187516d92d6,2015-09-07T13:57:11Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 98 year old male with PMH of HTN, T2DM presents with right ankle injury for since yesterday. Known to cardiology
+Assessment: mechanical fall, no red flags"
+5c90022d-3e13-4ff5-91c6-61aad46255ae,67156a1d-2e86-42e0-a81c-6ce3af24aca4,1924-05-27T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: 2 hours
+Severity: 5/10
+Allergies: Nil known
+Meds: nil regular
+Notes: ambulance brought in, crew concerned"
+e1c94243-127f-4f2f-8302-16c5df198904,3acf9313-1874-4dff-ab2a-3187516d92d6,2017-07-31T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 1 week
+Severity: 4/10
+Allergies: Latex
+Meds: metformin, ramipril
+Notes: appears distressed"
+5a4c1b35-32e8-4efa-afc1-b00ae63daf31,aeca5d2f-fa40-4b20-b684-052a771faa5c,2018-01-06T23:46:59Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: cough
+Duration: 2 hours
+Severity: 3/10
+Allergies: Codeine
+Meds: metformin, ramipril
+Notes: patient appears comfortable"
+cc429fba-5e46-4bbe-a352-7d533887bbec,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,2010-06-18T09:55:43Z,ED_TRIAGE,"Pt presents to ED with back pain. Onset this morning. Pain 10/10. PMH: asthma. Vitals: BP 112/50, HR 80, Temp 39.0. mechanical fall, no red flags"
+9b5520a2-096f-4b00-aa0f-ed7e42f3558e,ffa37e71-fa14-4e84-ba9d-aece8d1d99f9,1976-10-31T12:00:58Z,ED_TRIAGE,syncope. 2 hours. Tried ice pack without relief. Regular attender. Obs stable. Triaged as category 1.
+2d0f6625-d29f-4138-9075-4f330dee6b6b,275e4aea-c071-42d9-8ab1-a462ef4732e0,2014-04-07T08:34:42Z,ED_TRIAGE,"26yo male presenting with syncope x 3 days. Known to cardiology. O/E: soft abdomen, no guarding. Impression: needs CT head given age and mechanism. Plan: bloods, ECG, serial troponins"
+691c34ca-3d2c-4785-85bd-be1e47a0f7da,0edbb001-5914-42b6-9194-0a3c753b5c25,2016-01-08T21:26:16Z,ED_TRIAGE,headache. 3 days. Tried paracetamol without relief. No significant PMH. Obs stable. Triaged as category 2.
+70b395ba-e115-4caa-9620-8c1b917ec72c,c71fe37e-26f4-4b41-b017-5be7b5e129fe,2019-01-06T10:25:14Z,ED_TRIAGE,"CC: back pain
+HPI: 31 year old female with PMH of CKD stage 3 presents with back pain for 1 week. PMH: hypothyroidism
+Assessment: query appendicitis, surgical review requested"
+042b2eb8-f400-4904-8557-367c181df3a2,81813194-e1ed-41c2-8f7a-122a60b06550,2014-02-08T00:25:40Z,ED_TRIAGE,"42yo female presenting with back pain x 30 minutes. Known to cardiology. O/E: clear chest bilaterally. Impression: likely MSK, low risk. Plan: CT head, neuro obs"
+903a7254-959c-4ecc-bc4e-4e7278d5877e,49cbbe15-82cf-4ecc-b5b6-4cb6749c0c40,2010-08-27T15:57:51Z,ED_TRIAGE,nausea and vomiting. 2 hours. Tried ibuprofen without relief. Recent discharge from ward. Obs stable. Triaged as category 2.
+ad138bdd-9cb2-43ff-8dac-ee29603780da,be3eaf02-0c8a-4729-8b6e-7b40ab016e29,2004-08-04T00:59:10Z,ED_TRIAGE,63yo male presenting with dizziness x 3 days. Recent discharge from ward. O/E: clear chest bilaterally. Impression: needs CT head given age and mechanism. Plan: discharge with safety net advice
+231bb53a-7698-454f-b348-bebc2cc17427,87f05059-de42-4630-a35b-edb53d880640,1955-02-01T13:04:22Z,ED_TRIAGE,"Pt presents to ED with shortness of breath. Onset sudden. Pain 1/10. Regular attender. Vitals: BP 168/102, HR 105, Temp 36.7. needs CT head given age and mechanism"
+1c16f879-1838-4b13-8500-6b0a0d2e3dc1,8a789548-b3b7-46dc-9e9a-ffd4406f2961,2010-12-31T23:11:54Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset this morning. Pain 10/10. No significant PMH. Vitals: BP 177/54, HR 114, Temp 37.3. ? ACS, needs serial troponins"
+71223f20-315f-4803-8c9d-32b80fd21e76,a7f102bb-e1ba-4417-a0c5-75dec6473034,2019-09-28T09:30:42Z,ED_TRIAGE,"105yo male presenting with allergic reaction x 3 days. Regular attender. O/E: clear chest bilaterally. Impression: likely MSK, low risk. Plan: CT head, neuro obs"
+35bac3ed-b356-4f7e-8c87-2149e8f9cae6,8a1d2c26-0774-4526-916f-1148e0357b5d,1997-05-09T08:21:49Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 3 days
+Severity: 9/10
+Allergies: Nil known
+Meds: nil regular
+Notes: appears distressed"
+583e06b6-9499-420c-806e-42886799e6ed,cae10920-f977-48b4-a0d3-4d70ad561fd1,2009-01-30T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: dizziness
+Duration: 3 days
+Severity: 3/10
+Allergies: Penicillin
+Meds: metformin, ramipril
+Notes: walked in from waiting room"
+6a08a775-3850-4794-8ee0-3ff8c5a397b0,d9f90c91-2e37-40ca-a574-89b33a120d16,2017-03-12T16:07:39Z,ED_TRIAGE,"40yo female presenting with allergic reaction x 30 minutes. No significant PMH. O/E: clear chest bilaterally. Impression: UTI, send MSU. Plan: bloods, ECG, serial troponins"
+921242cd-4a43-4014-99c8-c6f664daa0e7,e0503bf7-6b9e-4c70-9dc8-35b0bf3cd50b,2012-04-12T15:09:15Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset this morning. Pain 9/10. PMH: asthma. Vitals: BP 116/85, HR 68, Temp 36.8. UTI, send MSU"
+a48c7651-f238-4f95-89f1-24f0be93bd53,cdef53d5-0537-4073-8874-79fa5e0346e6,1986-05-09T19:13:29Z,ED_TRIAGE,"CC: fall
+HPI: 46 year old female with PMH of COPD, AF presents with fall for 2 hours. Recent discharge from ward
+Assessment: viral URTI, supportive management"
+aff7fbff-cbbb-402f-9620-302a451fb9dc,cae10920-f977-48b4-a0d3-4d70ad561fd1,2006-06-16T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: syncope
+Duration: 3 days
+Severity: 6/10
+Allergies: Nil known
+Meds: salbutamol PRN
+Notes: accompanied by family"
+3ebe5834-a25c-48c2-85f7-2475509cb80f,f1921fc3-fdfc-441d-a928-27c18002fedf,2020-02-29T16:48:29Z,ED_TRIAGE,dizziness. 2 hours. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 3.
+2a9d64eb-1d4d-42e3-a7b6-e5d78a20724a,cae10920-f977-48b4-a0d3-4d70ad561fd1,2003-10-03T23:35:03Z,ED_TRIAGE,"Pt presents to ED with dizziness. Onset 1 week ago. Pain 6/10. Recent discharge from ward. Vitals: BP 151/69, HR 57, Temp 37.0. mechanical fall, no red flags"
+d765bbd5-7a9c-488b-aca5-e8309c2bb5bb,0edbb001-5914-42b6-9194-0a3c753b5c25,2015-01-23T21:26:16Z,ED_TRIAGE,"47yo female presenting with confusion x 2 hours. Regular attender. O/E: tenderness over R iliac fossa. Impression: needs CT head given age and mechanism. Plan: X-ray, analgesia, reassess"
+6e594fbd-3446-4699-bee8-842c9242b938,cae10920-f977-48b4-a0d3-4d70ad561fd1,2008-01-04T23:35:03Z,ED_TRIAGE,"94yo male presenting with headache x 2 hours. PMH: HTN, T2DM. O/E: swollen right ankle, unable to weight bear. Impression: migraine, improving with analgesia. Plan: X-ray, analgesia, reassess"
+c2a5c193-a6d1-43e7-88bc-529e27206c63,0b9e5e4d-2e1a-4ea6-a307-d8747ed779d0,2016-08-04T12:56:27Z,ED_TRIAGE,"Pt presents to ED with back pain. Onset 2 days ago. Pain 0/10. PMH: CKD stage 3. Vitals: BP 163/50, HR 85, Temp 36.3. mechanical fall, no red flags"
+f448b496-ff8d-4141-b09f-5c0a440faa59,d07f23f8-3bd1-4db1-9a36-51aedbe60821,2013-05-18T00:54:28Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset sudden. Pain 1/10. Recent discharge from ward. Vitals: BP 164/76, HR 128, Temp 38.0. viral URTI, supportive management"
+60fdf6cc-1a83-4a93-95b7-ddc2ce3854d7,5ce924c7-ec4c-4b5f-93ff-2ae274654c74,2011-03-10T01:26:16Z,ED_TRIAGE,"29yo female presenting with fall x 30 minutes. Recent discharge from ward. O/E: swollen right ankle, unable to weight bear. Impression: query appendicitis, surgical review requested. Plan: bloods, ECG, serial troponins"
+960e57c8-df74-419b-a12a-1dbd95c00c6b,2f76733b-933c-4cc5-aea2-53799158c8cc,2010-09-11T07:02:15Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: palpitations
+Duration: 1 week
+Severity: 6/10
+Allergies: Penicillin
+Meds: salbutamol PRN
+Notes: appears distressed"
+38cb58be-d27d-4dce-bb35-bed60a7c7637,2f76733b-933c-4cc5-aea2-53799158c8cc,2013-10-26T07:02:15Z,ED_TRIAGE,"Pt presents to ED with cough. Onset sudden. Pain 8/10. No significant PMH. Vitals: BP 104/106, HR 99, Temp 37.0. low risk chest pain, HEART score 2"
+b2f93035-37e8-4227-9e3c-b824e273da72,cae10920-f977-48b4-a0d3-4d70ad561fd1,2007-03-23T23:35:03Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset gradual. Pain 3/10. Known to cardiology. Vitals: BP 109/88, HR 73, Temp 38.4. migraine, improving with analgesia"
+42d7fcf4-a150-4407-ba15-fc648ae537db,cae10920-f977-48b4-a0d3-4d70ad561fd1,2002-04-05T23:35:03Z,ED_TRIAGE,"88yo male presenting with cough x 1 week. Known to cardiology. O/E: swollen right ankle, unable to weight bear. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+69c7c4df-9b74-4acc-8150-fc46ebe047a1,cae10920-f977-48b4-a0d3-4d70ad561fd1,2004-06-25T23:35:03Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset 1 week ago. Pain 7/10. Known to cardiology. Vitals: BP 160/68, HR 115, Temp 37.6. likely MSK, low risk"
+,cae10920-f977-48b4-a0d3-4d70ad561fd1,2003-03-07T23:35:03Z,ED_TRIAGE,"CC: syncope
+HPI: 89 year old male with PMH of asthma presents with syncope for 3 days. Regular attender
+Assessment: ? ACS, needs serial troponins"
+9792732e-0919-4cb4-9c1e-2425e357efe1,899a4f9c-abc3-4a13-88e4-0f7862ee6ab5,1990-03-22T20:06:38Z,ED_TRIAGE,back pain. since yesterday. Tried ice pack without relief. Regular attender. Obs stable. Triaged as category 1.
+2d7327e6-e924-42dd-92e4-6dacd43b1576,7c87072a-b448-4939-b131-de04228b5ace,2010-04-20T07:47:33Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 10 year old female with PMH of nil significant presents with nausea and vomiting for since yesterday. Recent discharge from ward
+Assessment: likely MSK, low risk"
+fdce226c-ee1c-4559-be05-8390c6e54022,f1921fc3-fdfc-441d-a928-27c18002fedf,2010-08-10T16:48:29Z,ED_TRIAGE,right ankle injury. 2 hours. Tried over-the-counter antacids without relief. PMH: asthma. Obs stable. Triaged as category 5.
+f3e0d992-2e9e-40b1-9ab4-1b2ba162c153,fb91570f-6f79-4d03-bf4f-d3d58138328e,1990-09-02T18:44:55Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fall
+Duration: 3 days
+Severity: 6/10
+Allergies: Penicillin
+Meds: sertraline 50mg OD
+Notes: patient appears comfortable"
+2d5467e4-aac9-4fea-b011-748f286c0ef9,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,2011-01-14T09:55:43Z,ED_TRIAGE,palpitations. 2 hours. Tried over-the-counter antacids without relief. Known to cardiology. Obs stable. Triaged as category 5.
+a7ef6571-827d-4d93-932f-bcaff19d2f3a,a0ca0f54-f8cc-4bee-9a80-827f0b097636,2010-06-08T06:58:52Z,ED_TRIAGE,cough. since yesterday. Tried ice pack without relief. Recent discharge from ward. Obs stable. Triaged as category 5.
+05fa29b1-6d98-4d16-81f6-6f77e447361d,9c2bee19-03b6-4338-b9bd-bd73339abcb0,2020-01-13T18:01:18Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: palpitations
+Duration: 3 days
+Severity: 10/10
+Allergies: Latex
+Meds: nil regular
+Notes: ambulance brought in, crew concerned"
+5286ab6f-9d7f-49f8-bd6d-416219da3067,cae10920-f977-48b4-a0d3-4d70ad561fd1,2008-03-07T23:35:03Z,ED_TRIAGE,"CC: seizure
+HPI: 94 year old male with PMH of COPD, AF presents with seizure for 1 week. No significant PMH
+Assessment: migraine, improving with analgesia"
+d489ca07-4ff6-4554-8d29-a1e017b25a75,cafc2141-2307-4f62-abd1-2d6e5486d7a5,2011-12-12T20:06:53Z,ED_TRIAGE,headache. 2 hours. Tried paracetamol without relief. Regular attender. Obs stable. Triaged as category 4.
+152220ac-f44e-4ee8-ac2e-ef7be2c71efd,8d202c65-427d-4190-8c28-3aa27e1a9f4c,2019-03-08T13:51:47Z,ED_TRIAGE,"CC: back pain
+HPI: 32 year old female with PMH of nil significant presents with back pain for 1 week. Known to cardiology
+Assessment: viral URTI, supportive management"
+2de0f249-bf99-4520-8ec9-02d5f44728a4,cae10920-f977-48b4-a0d3-4d70ad561fd1,2006-10-13T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: right ankle injury
+Duration: 30 minutes
+Severity: 7/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: walked in from waiting room"
+c2178004-926c-4340-91a8-c3d46f1be9b3,3b8d7909-9d3f-4345-b14f-d413a136d0c2,2015-06-01T05:26:46Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 24 year old female with PMH of HTN, T2DM presents with nausea and vomiting for 3 days. Regular attender
+Assessment: mechanical fall, no red flags"
+52f59ea7-9c44-4bb5-afc9-235157db4396,de7c8b90-7d39-4245-afc5-e8d01b599ae1,2014-04-28T18:31:31Z,ED_TRIAGE,urinary symptoms. 30 minutes. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 1.
+8ee6da3d-9640-4fd4-be82-259094dc9faf,1a7e8f38-95df-4c27-8897-21ed04c3b98b,2009-03-19T20:06:53Z,ED_TRIAGE,"Pt presents to ED with headache. Onset gradual. Pain 2/10. Known to cardiology. Vitals: BP 115/84, HR 68, Temp 39.3. query appendicitis, surgical review requested"
+3c4c1fab-c305-4aaf-9f6a-7e534068705e,f1728f28-ef0c-4342-9216-a4a4e8375961,2017-06-06T20:58:20Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: seizure
+Duration: 3 days
+Severity: 8/10
+Allergies: Latex
+Meds: nil regular
+Notes: appears distressed"
+e9f4ae60-38a4-4d45-ac3f-407f0c57c8f9,3acf9313-1874-4dff-ab2a-3187516d92d6,2018-01-21T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 3 days
+Severity: 4/10
+Allergies: Codeine
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: appears distressed"
+6858ae6d-0344-48da-84a9-12cf133a21b4,3acf9313-1874-4dff-ab2a-3187516d92d6,2016-07-04T13:57:11Z,ED_TRIAGE,allergic reaction. 3 days. Tried paracetamol without relief. Recent discharge from ward. Obs stable. Triaged as category 5.
+43811137-a0bb-45f3-ba65-7ae741b97fb1,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,2017-11-10T09:55:43Z,ED_TRIAGE,"94yo male presenting with abdominal pain x 1 week. No significant PMH. O/E: soft abdomen, no guarding. Impression: exacerbation of known COPD. Plan: X-ray, analgesia, reassess"
+1cc815a0-36c6-4662-8cb9-7c395e1caf00,6ec18ddf-e9ee-421a-9033-456f558c7b4b,2002-09-04T21:19:21Z,ED_TRIAGE,"Pt presents to ED with chest pain. Onset 1 week ago. Pain 3/10. Recent discharge from ward. Vitals: BP 122/101, HR 130, Temp 38.6. low risk chest pain, HEART score 2"
+37e2094c-532e-4088-b21e-a2662eb9b49e,a708bca4-8fc9-4567-8c22-8b13d44f4f45,2018-06-18T04:27:38Z,ED_TRIAGE,"Pt presents to ED with overdose. Onset sudden. Pain 7/10. Known to cardiology. Vitals: BP 133/60, HR 127, Temp 37.8. viral URTI, supportive management"
+b38b9738-a326-4aaf-bef2-efb9555365b9,d07f23f8-3bd1-4db1-9a36-51aedbe60821,2009-03-18T00:54:28Z,ED_TRIAGE,"64yo male presenting with abdominal pain x 3 days. PMH: HTN, T2DM. O/E: soft abdomen, no guarding. Impression: exacerbation of known COPD. Plan: X-ray, analgesia, reassess"
+cf9e5079-425a-4171-91c4-f019caa38fb1,dbcd6f5b-6069-4f03-95f3-5c17a0f2776c,2005-08-15T04:30:39Z,ED_TRIAGE,"CC: rash
+HPI: 46 year old male with PMH of HTN, T2DM presents with rash for 3 days. Recent discharge from ward
+Assessment: viral URTI, supportive management"
+ec76aef0-e055-4d6f-94d5-3dbe5fde4945,8d202c65-427d-4190-8c28-3aa27e1a9f4c,2011-12-16T13:51:47Z,ED_TRIAGE,fall. 3 days. Tried ice pack without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+d173294a-ed32-4e23-82b3-9cb4b3ead380,da44a96f-4140-4a0d-9646-fb5415b8c371,2012-03-28T12:18:52Z,ED_TRIAGE,"52yo male presenting with shortness of breath x 2 hours. PMH: depression, anxiety. O/E: clear chest bilaterally. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+fc88ed7b-7a58-4de1-97b8-51569ac75f48,860aff27-7431-47ee-968e-554470683160,2016-04-05T10:13:45Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: abdominal pain
+Duration: 30 minutes
+Severity: 3/10
+Allergies: Penicillin
+Meds: nil regular
+Notes: walked in from waiting room"
+99c76021-1d96-41ad-be2b-dc95e748f17b,372a8506-f31a-45fa-b563-c50305d983c3,2014-05-10T16:06:22Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 30 minutes
+Severity: 8/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: accompanied by family"
+29ce02f4-935f-438d-8089-942085dd21c1,36267e65-b252-451f-a4f8-bfcc80594aac,2013-12-20T08:58:58Z,ED_TRIAGE,"27yo male presenting with right ankle injury x since yesterday. PMH: COPD, AF. O/E: GCS 15, oriented, no focal neurology. Impression: low risk chest pain, HEART score 2. Plan: IV fluids, antiemetics"
+97e1743f-3d86-4875-be87-6dfa15aaad03,45840f9a-a735-45e4-beb0-b750fc9a712e,2009-09-10T11:52:26Z,ED_TRIAGE,"CC: chest pain
+HPI: 21 year old female with PMH of depression, anxiety presents with chest pain for 30 minutes. PMH: rheumatoid arthritis
+Assessment: mechanical fall, no red flags"
+3273f0f0-7df6-4caa-a009-9ce5a4006c5f,ca24f616-30cc-4351-aca9-1b49297de076,1993-05-08T20:06:53Z,ED_TRIAGE,"50yo male presenting with seizure x 3 days. PMH: HTN, T2DM. O/E: soft abdomen, no guarding. Impression: mechanical fall, no red flags. Plan: CT head, neuro obs"
+a9b1707d-86a4-4c4c-aa91-3a77f1d48f03,cae10920-f977-48b4-a0d3-4d70ad561fd1,2005-09-16T23:35:03Z,ED_TRIAGE,"92yo male presenting with nausea and vomiting x 3 days. No significant PMH. O/E: GCS 15, oriented, no focal neurology. Impression: UTI, send MSU. Plan: discharge with safety net advice"
+4e5223c0-9173-4c26-9a78-100fd523d7f7,e47e6347-73d4-4244-b92e-8a7cea33d434,2004-08-13T21:09:07Z,ED_TRIAGE,"CC: dizziness
+HPI: unknown year old male with PMH of CKD stage 3 presents with dizziness for 30 minutes. Regular attender
+Assessment: ? ACS, needs serial troponins"
+ad851f08-4426-4cc8-aabb-1de71f7b7b24,5bf2b18d-fcdc-4ac8-9b39-e623eaad226e,2012-02-12T10:04:08Z,ED_TRIAGE,laceration to left hand. 1 week. Tried over-the-counter antacids without relief. Known to cardiology. Obs stable. Triaged as category 4.
+9530458c-f30b-4943-ba5f-217a6b6d4a07,cad44a83-848c-4019-a175-291a150b9d05,2016-04-23T06:16:01Z,ED_TRIAGE,"45yo female presenting with fall x 2 hours. Known to cardiology. O/E: swollen right ankle, unable to weight bear. Impression: ? ACS, needs serial troponins. Plan: bloods, ECG, serial troponins"
+4ad75edf-0a5d-44ee-8486-e2016fd2dd15,3e234e30-d471-4c3e-b433-220f2aa4a91d,2015-11-17T19:48:00Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: 3 days
+Severity: 7/10
+Allergies: NKDA
+Meds: nil regular
+Notes: accompanied by family"
+9e4d0d30-d9e0-4a56-a372-dd9982c22bc7,f1c1d986-9e19-40df-b761-799db01c1e57,2014-03-13T02:44:21Z,ED_TRIAGE,"Pt presents to ED with headache. Onset 2 days ago. Pain 0/10. Recent discharge from ward. Vitals: BP 174/85, HR 67, Temp 37.3. viral URTI, supportive management"
+becb8d27-75de-4df1-8ea6-7e4fd251907c,cae10920-f977-48b4-a0d3-4d70ad561fd1,2006-04-14T23:35:03Z,ED_TRIAGE,"CC: overdose
+HPI: 92 year old male with PMH of nil significant presents with overdose for 2 hours. No significant PMH
+Assessment: viral URTI, supportive management"
+2ed5d865-8376-4300-a959-b27e1549ef37,d317663c-f8b8-47a7-915f-e3e68d1214cc,2011-07-31T10:17:00Z,ED_TRIAGE,"CC: back pain
+HPI: 16 year old male with PMH of rheumatoid arthritis presents with back pain for 3 days. PMH: HTN, T2DM
+Assessment: low risk chest pain, HEART score 2"
+c6e3db0e-8515-495d-a73d-02de2090cc56,0325261f-61eb-46f8-acc6-89d15053fecd,1962-10-02T13:04:22Z,ED_TRIAGE,"Pt presents to ED with palpitations. Onset sudden. Pain 0/10. PMH: IHD, prev MI 2019. Vitals: BP 158/70, HR 77, Temp 38.2. needs CT head given age and mechanism"
+45546236-3c5c-4f83-9620-43ee06df220c,e974e5c3-9b22-41f2-b3a3-c12848f29a73,2016-04-15T13:04:22Z,ED_TRIAGE,"CC: abdominal pain
+HPI: 94 year old female with PMH of asthma presents with abdominal pain for 3 days. No significant PMH
+Assessment: UTI, send MSU"
+47b4a252-993f-412c-a0a0-f449cbb1b2db,da80e506-8671-42e8-98da-2ddcb06e7ffb,2017-10-04T16:33:38Z,ED_TRIAGE,"18yo male presenting with urinary symptoms x 1 week. No significant PMH. O/E: clear chest bilaterally. Impression: needs CT head given age and mechanism. Plan: CT head, neuro obs"
+696de374-0718-4ba3-87fd-17d1f6663e5c,1686a27e-c76f-471f-b445-4e537bc2fc2f,2015-12-24T07:01:19Z,ED_TRIAGE,"Pt presents to ED with fall. Onset gradual. Pain 4/10. No significant PMH. Vitals: BP 156/69, HR 55, Temp 38.9. likely MSK, low risk"
+87440a7d-6d69-4781-91a0-ea85484f1d4b,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,2010-06-17T22:09:56Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset this morning. Pain 0/10. Regular attender. Vitals: BP 163/102, HR 71, Temp 38.0. UTI, send MSU"
+282df203-0ac1-4403-b7cc-122ac9cc09dc,22da6290-e240-4875-97ec-0c2372ff45e5,2019-07-11T11:07:33Z,ED_TRIAGE,"0yo female presenting with allergic reaction x 30 minutes. PMH: HTN, T2DM. O/E: clear chest bilaterally. Impression: exacerbation of known COPD. Plan: IV fluids, antiemetics"
+509ee14c-674b-440f-b37a-f9b69ed17f98,e8ae3951-69d1-4257-a22b-ed03327260d7,2011-11-02T12:47:00Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: palpitations
+Duration: 30 minutes
+Severity: 10/10
+Allergies: Nil known
+Meds: metformin, ramipril
+Notes: patient appears comfortable"
+b8d928fa-5760-4403-b96e-5a5e9fa0acb8,c466fefd-30df-47ac-98b3-a1cdf8e2f7c7,2017-08-10T11:06:45Z,ED_TRIAGE,"Pt presents to ED with urinary symptoms. Onset 2 days ago. Pain 8/10. Regular attender. Vitals: BP 132/78, HR 69, Temp 36.2. migraine, improving with analgesia"
+603d7cb5-fe56-4127-bda5-e07ecc5c8440,5ac53bc4-f585-4a8f-adaf-51c6b31c79fa,2016-06-19T07:11:06Z,ED_TRIAGE,"Pt presents to ED with overdose. Onset 1 week ago. Pain 4/10. No significant PMH. Vitals: BP 164/56, HR 63, Temp 39.0. mechanical fall, no red flags"
+5e2e9f39-e4f6-4534-9704-9132bb1281ce,fc448035-8fc9-4893-b4eb-d1b90fc8742c,2013-06-16T13:46:06Z,ED_TRIAGE,"Pt presents to ED with cough. Onset 1 week ago. Pain 2/10. Known to cardiology. Vitals: BP 168/109, HR 95, Temp 37.8. low risk chest pain, HEART score 2"
+14731170-15a2-4856-a555-467c830f644f,8ea2e45c-956e-4d43-b24a-9592b3132abe,2010-08-17T01:57:15Z,ED_TRIAGE,"45yo female presenting with headache x 30 minutes. No significant PMH. O/E: clear chest bilaterally. Impression: mechanical fall, no red flags. Plan: bloods, ECG, serial troponins"
+620f5f75-eca2-4a85-8a56-2d8e9fdd5939,346acf4c-2ac2-4fc7-9d7b-630debf1d90b,2013-08-06T22:09:58Z,ED_TRIAGE,"29yo female presenting with headache x 1 week. No significant PMH. O/E: clear chest bilaterally. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+96cb08de-e79c-44ac-961f-51c380e7839c,986fb981-de56-4d8b-a2a7-d688f7f5974f,2013-05-11T10:04:37Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 28 year old male with PMH of asthma presents with nausea and vomiting for 30 minutes. Regular attender
+Assessment: low risk chest pain, HEART score 2"
+ae68eae6-4db3-4dc2-b441-36d338de405b,926fc2c9-0e8c-4dd4-a00a-6d37a01dd304,2014-10-23T21:52:48Z,ED_TRIAGE,"Pt presents to ED with cough. Onset gradual. Pain 7/10. Known to cardiology. Vitals: BP 168/86, HR 63, Temp 36.4. UTI, send MSU"
+3facc940-ac54-429d-b615-287cbcb59adf,efa3e04c-ec23-46e4-9431-a73492ad32a5,2009-08-10T12:15:51Z,ED_TRIAGE,"CC: urinary symptoms
+HPI: 63 year old female with PMH of CKD stage 3 presents with urinary symptoms for 30 minutes. Recent discharge from ward
+Assessment: UTI, send MSU"
+69cc7a1e-da66-4f7e-950d-5af61a51c649,666237cb-e9f5-4126-9d0e-3706dd5f897c,2018-08-17T04:36:12Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: right ankle injury
+Duration: 1 week
+Severity: 0/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+6c9c47eb-15b6-409c-a305-851229fa030f,5bb2161d-1383-408b-a96d-344c0bd5f23a,2018-03-21T06:15:56Z,ED_TRIAGE,palpitations. 3 days. Tried over-the-counter antacids without relief. No significant PMH. Obs stable. Triaged as category 2.
+c5992057-a128-4c25-9c07-458bed725a02,875d9a6a-1c7e-44a9-96a0-b4ba92e40841,2014-06-25T04:44:13Z,ED_TRIAGE,syncope. since yesterday. Tried paracetamol without relief. Regular attender. Obs stable. Triaged as category 3.
+91f8e0b5-e536-4bfc-bd34-f66345a19fa0,b940dd35-39e3-49d9-918a-316db1e223e3,1958-11-29T05:05:25Z,ED_TRIAGE,"CC: fever
+HPI: 6 year old male with PMH of IHD, prev MI 2019 presents with fever for 2 hours. No significant PMH
+Assessment: low risk chest pain, HEART score 2"
+5671a28b-c508-4559-b56b-baaf3b808930,9d69e626-c968-4991-a486-79f4eab4db38,2000-09-23T16:56:14Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: seizure
+Duration: since yesterday
+Severity: 10/10
+Allergies: Latex
+Meds: salbutamol PRN
+Notes: walked in from waiting room"
+936c6ad3-2192-4a27-b5b9-5c20d6b4de11,52729daa-66a1-42d6-96c0-691a2d89e819,2009-05-23T11:08:08Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 3 days
+Severity: 6/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: walked in from waiting room"
+80fbc8dc-60a2-47ec-9457-a815dc9a1cba,8908602e-5f0c-4f1e-847f-75a0043eeba7,2017-02-17T00:01:14Z,ED_TRIAGE,chest pain. 1 week. Tried paracetamol without relief. Recent discharge from ward. Obs stable. Triaged as category 3.
+1a2b489b-627b-4677-92e9-595b30d4a77a,9ab883b3-d1dd-4120-b19c-e78d3ea8c25c,2011-11-14T03:23:18Z,ED_TRIAGE,right ankle injury. since yesterday. Tried ibuprofen without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+da7afd31-2b23-4393-90a2-aa12647d2ec3,8507a0b0-b667-4a07-90f1-8cfb2193dcd8,2009-06-20T20:06:53Z,ED_TRIAGE,headache. since yesterday. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+c44736b3-1577-4902-8277-8208194a0665,346acf4c-2ac2-4fc7-9d7b-630debf1d90b,2012-02-21T22:09:58Z,ED_TRIAGE,nausea and vomiting. 3 days. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 1.
+791b5c69-a086-4285-9516-29ce7d0de0ed,80427c8e-15ba-482f-b168-fc4f1d375179,1991-07-25T02:04:01Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: 30 minutes
+Severity: 8/10
+Allergies: Codeine
+Meds: nil regular
+Notes: appears distressed"
+82d5fcf7-0b5d-4b65-9d27-ac625faa814a,3acf9313-1874-4dff-ab2a-3187516d92d6,2013-06-24T13:57:11Z,ED_TRIAGE,"96yo male presenting with palpitations x 1 week. Regular attender. O/E: GCS 15, oriented, no focal neurology. Impression: viral URTI, supportive management. Plan: X-ray, analgesia, reassess"
+f79ab4e4-7ade-4eff-9fd0-4c346b8e9555,d4adfa2e-89ba-4ae6-9770-ef5a7ec4173a,2015-03-11T06:09:18Z,ED_TRIAGE,"CC: fall
+HPI: 53 year old female with PMH of COPD, AF presents with fall for 30 minutes. Regular attender
+Assessment: needs CT head given age and mechanism"
+cfb50afb-c08d-4cee-aaca-566eaa6f9f5c,03c5e223-c016-4477-947f-22c691d6a62c,2012-04-08T15:05:51Z,ED_TRIAGE,"CC: shortness of breath
+HPI: 10 year old female with PMH of asthma presents with shortness of breath for 3 days. PMH: nil significant
+Assessment: UTI, send MSU"
+03073ad4-3d6c-4ac4-b957-aa3c7ecba57e,04db6603-0017-4cc6-a46d-6df577b0a10d,2008-01-29T08:54:26Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 3 days
+Severity: 1/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: ambulance brought in, crew concerned"
+ce0a494a-170f-4ed3-a2ac-b93fdc47b8c3,9b286917-8a4b-4ea7-803e-21578f6882e1,2015-08-26T03:56:18Z,ED_TRIAGE,"Pt presents to ED with urinary symptoms. Onset sudden. Pain 0/10. Recent discharge from ward. Vitals: BP 165/83, HR 90, Temp 36.1. ? ACS, needs serial troponins"
+a87942c8-3e7d-40fd-9e06-009414dcf051,62494529-9ceb-486a-9510-22f7cb454dd6,2012-07-06T11:05:08Z,ED_TRIAGE,"21yo female presenting with allergic reaction x 2 hours. PMH: nil significant. O/E: soft abdomen, no guarding. Impression: needs CT head given age and mechanism. Plan: bloods, ECG, serial troponins"
+18e020f0-850c-4839-a9a2-df1bdff9b2cc,13db4bb8-d1dc-4158-a820-d2d1b7084fc4,2012-03-17T07:53:01Z,ED_TRIAGE,"65yo female presenting with back pain x 1 week. PMH: hypothyroidism. O/E: clear chest bilaterally. Impression: viral URTI, supportive management. Plan: discharge with safety net advice"
+085f99c4-e999-43c7-bcad-2df9f2fd5b05,108cff4f-f9f1-4817-81a1-110697e354de,2013-12-07T14:46:19Z,ED_TRIAGE,"Pt presents to ED with palpitations. Onset this morning. Pain 8/10. Known to cardiology. Vitals: BP 143/64, HR 72, Temp 37.4. query appendicitis, surgical review requested"
+24dbab59-0ecb-407d-963c-299637992901,844d1c39-6ca2-48df-a3de-f9a12633f69c,2012-04-08T08:21:11Z,ED_TRIAGE,allergic reaction. 3 days. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 4.
+cddefebc-004c-4f6e-b018-562d1ec46dfc,8991a066-5e97-42b8-ba97-1c35bc034fea,2006-09-12T04:06:07Z,ED_TRIAGE,"Pt presents to ED with laceration to left hand. Onset 1 week ago. Pain 2/10. No significant PMH. Vitals: BP 151/55, HR 61, Temp 37.1. likely MSK, low risk"
+49fbbe59-998b-425f-b062-0de200bf7efe,cae10920-f977-48b4-a0d3-4d70ad561fd1,2005-08-19T23:35:03Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 92 year old male with PMH of IHD, prev MI 2019 presents with right ankle injury for 2 hours. Recent discharge from ward
+Assessment: ? ACS, needs serial troponins"
+7b59f0da-b0db-407b-8de5-b384b66f9004,ff02f237-fedb-453b-85b1-ebfc2609c312,2015-07-14T17:10:39Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset gradual. Pain 3/10. No significant PMH. Vitals: BP 131/67, HR 59, Temp 36.4. UTI, send MSU"
+fa405068-a37d-4ec8-8544-a6d08f4fc446,0b93425b-2c05-40c3-a806-25807904c598,2019-03-03T11:46:10Z,ED_TRIAGE,"Pt presents to ED with fever. Onset this morning. Pain 2/10. Regular attender. Vitals: BP 107/64, HR 93, Temp 37.1. query appendicitis, surgical review requested"
+6363f1f6-9aae-4d1b-8b45-b84f69f9455d,cae10920-f977-48b4-a0d3-4d70ad561fd1,2007-07-13T23:35:03Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset 1 week ago. Pain 7/10. Recent discharge from ward. Vitals: BP 175/89, HR 121, Temp 37.6. needs CT head given age and mechanism"
+85bc70f0-f47c-4f7c-b143-1d009d07c7de,b89ab36c-1335-4fa4-9040-d86c6c22dc8d,2010-11-17T10:34:53Z,ED_TRIAGE,"Pt presents to ED with chest pain. Onset this morning. Pain 7/10. Regular attender. Vitals: BP 90/85, HR 58, Temp 37.3. needs CT head given age and mechanism"
+26013679-fb6f-442d-87ee-a07d178ec258,bf35e4fa-ea4f-40a4-8fe6-1f2f26e0aa45,2014-08-24T20:46:46Z,ED_TRIAGE,"CC: confusion
+HPI: 13 year old female with PMH of nil significant presents with confusion for 2 hours. Known to cardiology
+Assessment: query appendicitis, surgical review requested"
+2e85750d-1ce7-4fca-bd6f-9cc432f99033,3acf9313-1874-4dff-ab2a-3187516d92d6,2013-07-22T13:57:11Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset this morning. Pain 7/10. Recent discharge from ward. Vitals: BP 115/60, HR 70, Temp 38.5. exacerbation of known COPD"
+14fd45cc-eac4-4c8d-bff3-5052ea928ea7,e112cedd-a98e-489e-abb0-875420d40397,2014-08-04T23:07:53Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset this morning. Pain 0/10. Regular attender. Vitals: BP 137/80, HR 73, Temp 36.3. likely MSK, low risk"
+65d3d03b-900a-432a-a496-62532df03a11,03172f6e-fb21-4770-8eef-513730174ab7,1967-07-25T09:16:22Z,ED_TRIAGE,"6yo female presenting with chest pain x since yesterday. PMH: COPD, AF. O/E: soft abdomen, no guarding. Impression: needs CT head given age and mechanism. Plan: CT head, neuro obs"
+bb25d1fc-da97-4e6e-be46-4e76ac2c025a,cae10920-f977-48b4-a0d3-4d70ad561fd1,2001-02-09T23:35:03Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset sudden. Pain 2/10. No significant PMH. Vitals: BP 179/50, HR 98, Temp 37.9. low risk chest pain, HEART score 2"
+4fb896ea-bafc-4388-a708-28d6443bcfe1,84114892-a562-4dff-8135-e01c0c8a5cc3,2007-09-10T04:16:32Z,ED_TRIAGE,"45yo female presenting with back pain x 1 week. Recent discharge from ward. O/E: swollen right ankle, unable to weight bear. Impression: needs CT head given age and mechanism. Plan: IV fluids, antiemetics"
+7302a9ce-5845-456d-af2e-bca7a1fc387f,0f5646bc-a156-4ec0-9252-5b592e3d3184,2017-06-04T11:11:47Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fever
+Duration: 2 hours
+Severity: 1/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: patient appears comfortable"
+1c91f459-adf0-4fe6-abdb-d248a91b9d85,fc817953-cc8b-45db-9c85-7c0ced8fa90d,2009-08-08T17:27:52Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 2 hours
+Severity: 10/10
+Allergies: Codeine
+Meds: nil regular
+Notes: walked in from waiting room"
+9135df4d-1649-402a-9814-67c6bcf52446,0ba90366-87ad-4f9d-9bcd-c11e63eb6f27,1996-02-16T11:02:24Z,ED_TRIAGE,"CC: cough
+HPI: 40 year old female with PMH of depression, anxiety presents with cough for 2 hours. Recent discharge from ward
+Assessment: mechanical fall, no red flags"
+86c85488-16ab-4fa6-918d-ee8396b49e07,af08878c-08dc-4938-aebd-cd5da315c479,2017-07-24T09:04:45Z,ED_TRIAGE,"syncope. 3 days. Tried ibuprofen without relief. PMH: depression, anxiety. Obs stable. Triaged as category 1."
+dec97509-a86b-49a9-9c05-305f1a8efd95,8ea2e45c-956e-4d43-b24a-9592b3132abe,2018-01-07T01:57:15Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 52 year old female with PMH of rheumatoid arthritis presents with right ankle injury for 1 week. Recent discharge from ward
+Assessment: viral URTI, supportive management"
+9c00f5a4-cf6c-450e-99f7-671423e92919,a543a58b-6127-448a-a737-3056c022601f,2012-06-11T12:56:34Z,ED_TRIAGE,"Pt presents to ED with fall. Onset sudden. Pain 8/10. Known to cardiology. Vitals: BP 119/90, HR 106, Temp 38.1. likely MSK, low risk"
+ff8b453c-f572-4e87-beaa-687f8225c33e,10134dbf-72d1-4381-b8f3-9530cca6622a,2019-06-10T13:12:56Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset 1 week ago. Pain 6/10. PMH: hypothyroidism. Vitals: BP 178/105, HR 113, Temp 38.1. low risk chest pain, HEART score 2"
+dca1ae2a-39c5-46d5-92bf-236d850595e4,3acf9313-1874-4dff-ab2a-3187516d92d6,2013-05-20T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: abdominal pain
+Duration: 30 minutes
+Severity: 9/10
+Allergies: Codeine
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: walked in from waiting room"
+1b869337-25b1-4c84-9abd-6087ae6d9d98,c71fe37e-26f4-4b41-b017-5be7b5e129fe,2016-01-24T10:25:14Z,ED_TRIAGE,seizure. since yesterday. Tried rest without relief. Regular attender. Obs stable. Triaged as category 3.
+d53a6c62-d7d4-4412-af8b-5b3da5a61a45,8507a0b0-b667-4a07-90f1-8cfb2193dcd8,2006-06-30T20:06:53Z,ED_TRIAGE,"Pt presents to ED with dizziness. Onset 2 days ago. Pain 8/10. Recent discharge from ward. Vitals: BP 140/91, HR 67, Temp 38.8. mechanical fall, no red flags"
+3316a961-ce70-42a4-bcdf-c9369ee6c1a1,f9149e25-1799-44bf-a5aa-449b41161345,2017-11-28T11:09:02Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 30 minutes
+Severity: 2/10
+Allergies: NKDA
+Meds: salbutamol PRN
+Notes: patient appears comfortable"
+2477e7b6-9dd6-4650-89f5-78e59470b334,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,2015-06-13T06:11:10Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fever
+Duration: since yesterday
+Severity: 2/10
+Allergies: Nil known
+Meds: metformin, ramipril
+Notes: appears distressed"
+e4bc4990-251e-45e1-8e66-c6b0423e08af,e4945ad4-5f21-460f-a420-98a32ef61d3d,2011-01-30T18:25:21Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 3 days
+Severity: 5/10
+Allergies: Nil known
+Meds: metformin, ramipril
+Notes: accompanied by family"
+eaeaaa7b-9a5f-499a-97bf-0a606d206c0a,4cd6a8ff-8476-4af7-a2d5-60fc36f7df9a,1982-02-11T12:21:33Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset gradual. Pain 0/10. Recent discharge from ward. Vitals: BP 132/106, HR 57, Temp 37.8. migraine, improving with analgesia"
+de812174-3e00-482e-8c52-51c8b5dedb72,92e610ea-e98a-49fb-b770-9dcc307a5777,2018-12-03T19:30:37Z,ED_TRIAGE,dizziness. 30 minutes. Tried over-the-counter antacids without relief. Recent discharge from ward. Obs stable. Triaged as category 4.
+4beb0611-69e7-4063-adf2-4f78f6820753,40bb6e06-0d00-40d1-92b9-f4f2bcee5781,2012-12-18T11:13:33Z,ED_TRIAGE,syncope. 2 hours. Tried ibuprofen without relief. PMH: CKD stage 3. Obs stable. Triaged as category 5.
+6bbeabe4-f05a-4b81-8bc7-b0310ed9820c,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,2019-02-23T06:11:10Z,ED_TRIAGE,"Pt presents to ED with shortness of breath. Onset this morning. Pain 4/10. Recent discharge from ward. Vitals: BP 111/104, HR 95, Temp 36.6. exacerbation of known COPD"
+2e3e6502-82f4-4cf5-a4a1-dfbfeebb2c8c,cae10920-f977-48b4-a0d3-4d70ad561fd1,2000-11-17T23:35:03Z,ED_TRIAGE,"Pt presents to ED with seizure. Onset 1 week ago. Pain 2/10. PMH: depression, anxiety. Vitals: BP 107/58, HR 90, Temp 36.7. ? ACS, needs serial troponins"
+be5ac3ba-11f7-4e45-a045-28c81ad60b84,ca24f616-30cc-4351-aca9-1b49297de076,1998-12-07T20:06:53Z,ED_TRIAGE,"56yo male presenting with syncope x 3 days. Regular attender. O/E: soft abdomen, no guarding. Impression: viral URTI, supportive management. Plan: discharge with safety net advice"
+c4a4b5ac-37fe-4e8f-b702-4cd2bf18f640,88ea8573-863c-47e3-b144-b810c63156a0,2013-09-05T08:31:45Z,ED_TRIAGE,back pain. 30 minutes. Tried rest without relief. No significant PMH. Obs stable. Triaged as category 1.
+6e18b023-32ea-40f8-a4b8-39a5058064bf,0288abb6-633c-40c3-ba0c-66c7d957727e,2017-07-29T04:07:36Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: urinary symptoms
+Duration: 3 days
+Severity: 9/10
+Allergies: Codeine
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: accompanied by family"
+a727c81d-6912-4513-b1b5-952a5b46352c,9841342b-fa85-4526-9036-b138ffa81a2a,2018-11-15T21:30:58Z,ED_TRIAGE,"33yo female presenting with overdose x 30 minutes. Known to cardiology. O/E: soft abdomen, no guarding. Impression: ? ACS, needs serial troponins. Plan: IV fluids, antiemetics"
+ff578444-0124-4b48-ac0e-c660bd93b0c3,59669e7c-0190-4cbf-9e27-4898f1a35d03,2002-05-01T21:10:19Z,ED_TRIAGE,"CC: cough
+HPI: 16 year old male with PMH of asthma presents with cough for 1 week. Known to cardiology
+Assessment: needs CT head given age and mechanism"
+f026c67b-f82e-411a-9c20-33bfe14775dd,47392cc2-4fb3-4431-b56f-c54688671786,1991-02-18T01:51:56Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset this morning. Pain 2/10. No significant PMH. Vitals: BP 162/110, HR 118, Temp 39.2. mechanical fall, no red flags"
+8e14c615-ee25-4aec-aab4-fa22a26d3475,199946d9-69de-43e1-9ce6-d6b646b84955,2019-03-18T15:32:23Z,ED_TRIAGE,confusion. 2 hours. Tried ice pack without relief. PMH: rheumatoid arthritis. Obs stable. Triaged as category 1.
+073b059f-4e0f-48f0-ab22-595099282e5f,1474f954-3781-4de1-9d5d-27a2b8688419,2015-02-21T17:53:01Z,ED_TRIAGE,"Pt presents to ED with dizziness. Onset gradual. Pain 7/10. PMH: epilepsy. Vitals: BP 156/76, HR 97, Temp 38.1. exacerbation of known COPD"
+dfb64e47-f3ec-4cd0-9515-065eb509b827,733bbea8-c5a6-4599-86ec-9a797ce87e5d,2017-04-14T14:49:50Z,ED_TRIAGE,"13yo male presenting with fall x 2 hours. Regular attender. O/E: soft abdomen, no guarding. Impression: ? ACS, needs serial troponins. Plan: discharge with safety net advice"
+2543f297-b05f-41b5-968e-d66dfb47d0d5,2c7af31a-7740-4f28-80f8-d5005ea9c6c0,2016-09-15T06:48:05Z,ED_TRIAGE,"CC: fever
+HPI: 50 year old female with PMH of rheumatoid arthritis presents with fever for 3 days. Regular attender
+Assessment: query appendicitis, surgical review requested"
+49fd1c2f-688b-4bef-913e-d196737c4ca1,cae10920-f977-48b4-a0d3-4d70ad561fd1,1999-06-25T23:35:03Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset 1 week ago. Pain 0/10. Recent discharge from ward. Vitals: BP 169/50, HR 121, Temp 38.0. migraine, improving with analgesia"
+38391ab4-98e8-491a-9985-50405ea684e5,5ac53bc4-f585-4a8f-adaf-51c6b31c79fa,2012-04-27T07:11:06Z,ED_TRIAGE,confusion. 3 days. Tried ibuprofen without relief. Regular attender. Obs stable. Triaged as category 2.
+b6ceb795-2464-4ebb-bbc8-d64fe1564fe3,9423451c-8c37-4700-a059-f8c2f9c636b0,2020-03-22T02:44:23Z,ED_TRIAGE,"CC: seizure
+HPI: 20 year old female with PMH of CKD stage 3 presents with seizure for since yesterday. PMH: hypothyroidism
+Assessment: likely MSK, low risk"
+bcf45116-e3c8-4154-8a61-88e07b1b8cfa,0c1606c8-637e-4ed3-baf4-67390d8f3956,2016-10-29T03:32:02Z,ED_TRIAGE,"Pt presents to ED with rash. Onset this morning. Pain 7/10. Regular attender. Vitals: BP 119/107, HR 88, Temp 36.5. query appendicitis, surgical review requested"
+9fa5f520-02fd-4f05-b4c7-7f396dd4cded,d2157fd6-bfa4-49e4-9c53-e6baf30f3ff8,2011-11-29T08:05:47Z,ED_TRIAGE,"17yo male presenting with laceration to left hand x since yesterday. Recent discharge from ward. O/E: tenderness over R iliac fossa. Impression: migraine, improving with analgesia. Plan: bloods, ECG, serial troponins"
+c1c0cb7a-8890-41e4-a64a-b7ed9bd72d1b,9c55170c-081c-450d-b90b-3a580a820e77,2014-03-31T00:29:00Z,ED_TRIAGE,"24yo female presenting with nausea and vomiting x 30 minutes. PMH: epilepsy. O/E: GCS 15, oriented, no focal neurology. Impression: query appendicitis, surgical review requested. Plan: X-ray, analgesia, reassess"
+611b01de-4056-4a8c-962a-9a3f14e907de,ebee7497-67ea-4a51-ade2-59d7dfca8fcf,2015-06-02T10:53:35Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: right ankle injury
+Duration: 2 hours
+Severity: 6/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: accompanied by family"
+d02cb83c-7511-49e2-a87a-240e04a7f972,3acf9313-1874-4dff-ab2a-3187516d92d6,2012-07-30T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: since yesterday
+Severity: 2/10
+Allergies: Latex
+Meds: nil regular
+Notes: walked in from waiting room"
+9e15537b-3a13-451c-b57b-f75e25b14e29,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,2010-09-11T22:09:56Z,ED_TRIAGE,"CC: allergic reaction
+HPI: 90 year old male with PMH of CKD stage 3 presents with allergic reaction for 30 minutes. Recent discharge from ward
+Assessment: exacerbation of known COPD"
+612f2f60-0f12-4559-89c1-d58d0b5b649b,2c3932da-bde3-4d3c-a790-ff3b0fc4fb53,2015-06-13T20:06:53Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: syncope
+Duration: 2 hours
+Severity: 1/10
+Allergies: Penicillin
+Meds: salbutamol PRN
+Notes: patient appears comfortable"
+83e44bf9-d474-48e6-bc45-43e1c7560ac2,3acf9313-1874-4dff-ab2a-3187516d92d6,2017-01-02T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: headache
+Duration: 2 hours
+Severity: 10/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: appears distressed"
+0cf40fb5-9250-4e93-bfa7-22f389b7178c,09fc03c4-aef7-47e1-941a-618f437dfbe2,2011-08-02T13:16:28Z,ED_TRIAGE,shortness of breath. 1 week. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 3.
+28f34ee2-2621-4a92-b45c-5e6b9ad8cd0d,f290b494-c6de-40ee-98a3-ebb9d43cfd70,2018-07-14T22:00:44Z,ED_TRIAGE,"CC: headache
+HPI: 31 year old female with PMH of rheumatoid arthritis presents with headache for 3 days. Recent discharge from ward
+Assessment: low risk chest pain, HEART score 2"
+b468cb6a-5713-43a6-b130-203317f7647d,a6cd11fc-5a43-4bff-acb6-5ef4896a6c1e,2015-04-30T01:32:59Z,ED_TRIAGE,"Pt presents to ED with back pain. Onset 2 days ago. Pain 4/10. Recent discharge from ward. Vitals: BP 147/102, HR 69, Temp 36.7. exacerbation of known COPD"
+dd0f7350-1b3c-4018-ac68-5000fe15fc5b,f7d7b580-e670-4921-bc67-550ec468d506,2010-08-01T22:40:32Z,ED_TRIAGE,"CC: dizziness
+HPI: 35 year old female with PMH of nil significant presents with dizziness for 30 minutes. Known to cardiology
+Assessment: query appendicitis, surgical review requested"
+b862559c-bb8f-4890-bae5-4333029e1a89,8991a066-5e97-42b8-ba97-1c35bc034fea,2008-05-03T04:06:07Z,ED_TRIAGE,"34yo female presenting with urinary symptoms x 2 hours. No significant PMH. O/E: tenderness over R iliac fossa. Impression: low risk chest pain, HEART score 2. Plan: CT head, neuro obs"
+9735d483-d919-4328-bf17-ce4e711a1153,a2e8d9a7-0eb0-4441-adb5-7cc720380f4e,1966-06-18T04:54:18Z,ED_TRIAGE,nausea and vomiting. 3 days. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 4.
+1b633767-4642-4450-b908-fce5774cb1ec,6d8fdec1-d77d-4175-b250-f1bac5472b48,2012-12-16T04:54:18Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: dizziness
+Duration: 1 week
+Severity: 5/10
+Allergies: NKDA
+Meds: sertraline 50mg OD
+Notes: walked in from waiting room"
+71476868-9b29-483f-8191-eb613999fd4a,80a7bc09-bbee-476b-9b3f-e44984c96ca1,2013-04-15T11:30:48Z,ED_TRIAGE,"CC: laceration to left hand
+HPI: 4 year old male with PMH of depression, anxiety presents with laceration to left hand for 3 days. Known to cardiology
+Assessment: low risk chest pain, HEART score 2"
+81406638-d2a1-4d76-be9f-44ec539debb5,5ac53bc4-f585-4a8f-adaf-51c6b31c79fa,2014-06-30T07:11:06Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: syncope
+Duration: 3 days
+Severity: 6/10
+Allergies: Latex
+Meds: salbutamol PRN
+Notes: patient appears comfortable"
+075cddee-96e5-445c-9f94-294ed7855f60,e8ae3951-69d1-4257-a22b-ed03327260d7,2013-10-23T12:47:00Z,ED_TRIAGE,chest pain. since yesterday. Tried ibuprofen without relief. No significant PMH. Obs stable. Triaged as category 1.
+32c1e031-a2e3-4ba2-9f8d-a889cfa3a99d,cda36bac-8f55-4856-b586-140314f6cd89,2012-10-01T15:24:19Z,ED_TRIAGE,"Pt presents to ED with seizure. Onset this morning. Pain 3/10. Regular attender. Vitals: BP 116/61, HR 81, Temp 39.4. exacerbation of known COPD"
+ef632e24-e806-430c-bd2d-64eba8fdd9bf,4b8d5256-a202-4f3a-be23-5f4351251eb3,2012-12-28T11:02:24Z,ED_TRIAGE,laceration to left hand. 3 days. Tried over-the-counter antacids without relief. PMH: epilepsy. Obs stable. Triaged as category 4.
+7051979c-4d79-4e52-a5d5-13d614359240,9423451c-8c37-4700-a059-f8c2f9c636b0,2016-05-03T02:44:23Z,ED_TRIAGE,cough. since yesterday. Tried ice pack without relief. PMH: hypothyroidism. Obs stable. Triaged as category 5.
+934c23df-452d-4a91-bf17-e68e106a4876,664dea73-3a66-4f67-bc88-300660a1dec9,2019-03-09T21:58:28Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: unknown year old male with PMH of depression, anxiety presents with nausea and vomiting for 2 hours. PMH: asthma
+Assessment: migraine, improving with analgesia"
+b2e7b83c-e7f3-48dd-b1a5-86f7f41c2812,2ebc60de-f35e-40ef-ab09-ed736e6b4caa,2013-08-03T08:42:58Z,ED_TRIAGE,palpitations. 1 week. Tried rest without relief. PMH: rheumatoid arthritis. Obs stable. Triaged as category 1.
+4c3b9efd-4b72-49cf-b1cf-f207dc4a5caf,f504b982-e99b-4064-ad25-9e5480e769cd,2016-09-21T00:16:26Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: 3 days
+Severity: 1/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+c3471728-dc93-45d1-bc59-418f012539ec,733bbea8-c5a6-4599-86ec-9a797ce87e5d,2012-09-09T14:49:50Z,ED_TRIAGE,8yo male presenting with nausea and vomiting x 2 hours. No significant PMH. O/E: clear chest bilaterally. Impression: needs CT head given age and mechanism. Plan: discharge with safety net advice
+f37d16c7-485f-4414-b444-dc18b8fc8fc1,fca3178e-fb68-41c3-8598-702d3ca68b96,1980-04-12T17:27:52Z,ED_TRIAGE,fall. 2 hours. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 1.
+,a0b45d77-e330-44a3-9085-f06e636e5175,1988-04-28T16:31:58Z,ED_TRIAGE,"0yo male presenting with chest pain x 3 days. Known to cardiology. O/E: soft abdomen, no guarding. Impression: low risk chest pain, HEART score 2. Plan: X-ray, analgesia, reassess"
+a28b141b-33a3-41d2-8817-b331a3094fab,2f76733b-933c-4cc5-aea2-53799158c8cc,2013-07-20T07:02:15Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: 1 week
+Severity: 5/10
+Allergies: Codeine
+Meds: nil regular
+Notes: ambulance brought in, crew concerned"
+e0dd7516-e0e2-487d-a9bd-73f5f598190b,5638c948-62e3-4727-844b-3ac11d99749a,2010-07-23T09:10:49Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset this morning. Pain 7/10. Known to cardiology. Vitals: BP 131/83, HR 90, Temp 39.0. needs CT head given age and mechanism"
+b318f507-dd12-4dcc-90ae-992f8cd6687d,2abf5d21-8d0f-4263-b720-81d9d25f7a70,2019-12-20T16:42:42Z,ED_TRIAGE,"28yo male presenting with headache x since yesterday. Known to cardiology. O/E: clear chest bilaterally. Impression: low risk chest pain, HEART score 2. Plan: CT head, neuro obs"
+342f0713-fefb-4e86-a974-4b7d88a0e1a9,759ef86c-a675-457a-8304-0a6f34b57f8f,2017-05-19T08:19:41Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset this morning. Pain 7/10. Recent discharge from ward. Vitals: BP 132/56, HR 104, Temp 36.9. exacerbation of known COPD"
+fa601101-d993-4b03-96af-86ed03ac85de,41de7636-253c-4360-8cf7-6fc166b0448b,2018-06-06T17:23:22Z,ED_TRIAGE,"70yo male presenting with syncope x 2 hours. No significant PMH. O/E: GCS 15, oriented, no focal neurology. Impression: low risk chest pain, HEART score 2. Plan: CT head, neuro obs"
+99aed824-baeb-4b90-ae6e-66de4511ede7,da80e506-8671-42e8-98da-2ddcb06e7ffb,2019-08-16T16:33:38Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: shortness of breath
+Duration: 1 week
+Severity: 7/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: accompanied by family"
+36b094ac-bcc8-4b44-9349-2161d7cbb3d6,cd1d1f54-e4ea-458e-a264-b3e9c57d902e,2008-01-17T17:23:12Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: laceration to left hand
+Duration: since yesterday
+Severity: 6/10
+Allergies: Nil known
+Meds: salbutamol PRN
+Notes: appears distressed"
+882cf866-0c9a-42cc-b850-99bb35dfcdf4,137acc1b-dbca-473e-84bb-fe1baaf98819,1974-03-03T19:05:21Z,ED_TRIAGE,"CC: seizure
+HPI: 62 year old male with PMH of rheumatoid arthritis presents with seizure for since yesterday. No significant PMH
+Assessment: UTI, send MSU"
+602dc744-3129-4c87-bebd-4362720048a4,f830d725-640c-4c94-972a-61207b748347,2013-07-19T00:44:02Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: shortness of breath
+Duration: 1 week
+Severity: 7/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: appears distressed"
+0e15ba84-8842-4dc0-a7e0-c1a3321ea9f1,0047123f-12e7-486c-82df-53b3a450e365,2013-01-09T00:15:54Z,ED_TRIAGE,"53yo male presenting with fall x since yesterday. Known to cardiology. O/E: soft abdomen, no guarding. Impression: likely MSK, low risk. Plan: X-ray, analgesia, reassess"
+9b09b0d8-8e24-4087-abf9-6f4ae5683ed8,cae10920-f977-48b4-a0d3-4d70ad561fd1,2006-05-19T23:35:03Z,ED_TRIAGE,"93yo male presenting with urinary symptoms x 2 hours. Regular attender. O/E: tenderness over R iliac fossa. Impression: likely MSK, low risk. Plan: bloods, ECG, serial troponins"
+160123e3-5858-4cbd-9fb5-6f0f1543ce22,a4222dad-09bb-4049-b3dc-01b79f41012f,1983-11-30T01:35:02Z,ED_TRIAGE,"Pt presents to ED with dizziness. Onset this morning. Pain 5/10. PMH: epilepsy. Vitals: BP 172/99, HR 122, Temp 37.9. mechanical fall, no red flags"
+71374746-10b8-49ab-8b58-b9a114b93ea6,adfc3c2f-30be-430d-8f07-9070dab88c64,1962-03-07T23:46:24Z,ED_TRIAGE,"CC: laceration to left hand
+HPI: unknown year old female with PMH of epilepsy presents with laceration to left hand for since yesterday. Known to cardiology
+Assessment: ? ACS, needs serial troponins"
+1d0f8aab-e3f9-4ac7-8d1c-fbefa14c0c84,79066870-ef55-4bcb-b849-1edf3f6487cc,2016-04-04T06:19:54Z,ED_TRIAGE,"CC: fever
+HPI: 17 year old female with PMH of epilepsy presents with fever for 2 hours. PMH: COPD, AF
+Assessment: likely MSK, low risk"
+6b3bcf0c-73c2-4f7a-87f3-883f9a3e2140,65b0df4d-7a31-4a6d-9afb-96952e930f89,2012-09-27T19:17:38Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: dizziness
+Duration: 1 week
+Severity: 2/10
+Allergies: Latex
+Meds: salbutamol PRN
+Notes: appears distressed"
+ee659720-e550-469b-9d87-f14ba3b2f4a7,8a9df121-e012-457c-ade0-ead804d93818,2001-11-16T11:08:08Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: rash
+Duration: 3 days
+Severity: 5/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: ambulance brought in, crew concerned"
+cf4d471a-5bfc-4967-9046-130e5581ecc9,1ab6d5c8-edbe-4c71-8f7a-2af7010af2ab,2016-12-16T13:00:42Z,ED_TRIAGE,"CC: chest pain
+HPI: 70 year old female with PMH of epilepsy presents with chest pain for 30 minutes. PMH: asthma
+Assessment: UTI, send MSU"
+0f48d376-c407-4d7b-a3b0-8d6c45d1a08a,cae10920-f977-48b4-a0d3-4d70ad561fd1,2007-08-10T23:35:03Z,ED_TRIAGE,"Pt presents to ED with fall. Onset gradual. Pain 0/10. Recent discharge from ward. Vitals: BP 143/79, HR 98, Temp 36.5. mechanical fall, no red flags"
+a012b28f-a008-4131-afb5-7966bc438ef2,5666bbaf-828b-4fd1-a4f9-eeead450816d,1981-04-29T00:03:13Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: headache
+Duration: 30 minutes
+Severity: 9/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: patient appears comfortable"
+4ad01ba9-b01b-4c73-868c-56dccc8f6c56,7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,2010-10-16T12:28:36Z,ED_TRIAGE,nausea and vomiting. 2 hours. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 5.
+531f5494-ff87-459b-af5b-ade873671da7,68878f91-5962-4ef2-83e7-43b8298c1708,2013-09-19T13:40:53Z,ED_TRIAGE,right ankle injury. 1 week. Tried paracetamol without relief. Regular attender. Obs stable. Triaged as category 1.
+4ee9bfd5-adef-4cd9-986b-d1602958d505,10ab86b6-a248-4dcf-bebb-3ba143c0ea29,2018-10-08T01:38:25Z,ED_TRIAGE,"36yo male presenting with urinary symptoms x 2 hours. No significant PMH. O/E: tenderness over R iliac fossa. Impression: likely MSK, low risk. Plan: X-ray, analgesia, reassess"
+54ca291c-003e-4773-aa34-51bc87167465,4f0cc2f3-8492-41c9-ad38-f01219739df0,2012-12-13T21:42:25Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: overdose
+Duration: 2 hours
+Severity: 8/10
+Allergies: Nil known
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: patient appears comfortable"
+2c34f43f-223b-4c40-a373-f8daddddaa55,5c06120a-9af5-4204-951b-7a8bfc465df3,1992-05-23T01:41:15Z,ED_TRIAGE,"32yo female presenting with syncope x 3 days. PMH: nil significant. O/E: tenderness over R iliac fossa. Impression: mechanical fall, no red flags. Plan: bloods, ECG, serial troponins"
+1fd8f8c5-d2af-481b-83be-f724b9e5102a,ebee7497-67ea-4a51-ade2-59d7dfca8fcf,1986-04-05T10:53:35Z,ED_TRIAGE,"Pt presents to ED with cough. Onset gradual. Pain 6/10. PMH: COPD, AF. Vitals: BP 174/95, HR 99, Temp 39.3. exacerbation of known COPD"
+a9190ac2-ead3-46b3-9280-4ccd61c87df3,5ce924c7-ec4c-4b5f-93ff-2ae274654c74,2011-08-04T01:26:16Z,ED_TRIAGE,"29yo female presenting with seizure x 3 days. No significant PMH. O/E: clear chest bilaterally. Impression: viral URTI, supportive management. Plan: IV fluids, antiemetics"
+812a68ce-355b-4683-af82-00134f3cd5e4,cae10920-f977-48b4-a0d3-4d70ad561fd1,2002-01-11T23:35:03Z,ED_TRIAGE,"88yo male presenting with syncope x 3 days. Regular attender. O/E: clear chest bilaterally. Impression: viral URTI, supportive management. Plan: IV fluids, antiemetics"
+8ec857a1-ceb1-48a3-b473-195e3f4c7286,128d5c93-dfce-49a1-8d08-e9b24abcb4db,2017-08-23T20:16:28Z,ED_TRIAGE,"CC: fall
+HPI: 1 year old female with PMH of nil significant presents with fall for 30 minutes. No significant PMH
+Assessment: query appendicitis, surgical review requested"
+09be5f0e-191e-4d71-b5fb-c18f057a1fa0,cb96c95a-eaf7-4e02-9631-1c967a24ea2b,2018-07-13T09:35:40Z,ED_TRIAGE,shortness of breath. since yesterday. Tried ibuprofen without relief. Regular attender. Obs stable. Triaged as category 1.
+7229e1c6-e1cb-4ef1-b15d-609d73f11e08,8d202c65-427d-4190-8c28-3aa27e1a9f4c,2011-05-16T13:51:47Z,ED_TRIAGE,"CC: overdose
+HPI: 24 year old female with PMH of COPD, AF presents with overdose for 30 minutes. PMH: CKD stage 3
+Assessment: viral URTI, supportive management"
+2c3ee304-146e-4425-b660-320894d65ab0,f1921fc3-fdfc-441d-a928-27c18002fedf,2010-08-10T16:48:29Z,ED_TRIAGE,"100yo female presenting with chest pain x 2 hours. Recent discharge from ward. O/E: soft abdomen, no guarding. Impression: UTI, send MSU. Plan: X-ray, analgesia, reassess"
+b29afc5d-5638-426d-bd0f-81eabb0d49df,7d2e09cb-ceda-47d6-8cb2-5e1eb725665d,2017-02-14T22:32:46Z,ED_TRIAGE,"CC: chest pain
+HPI: 14 year old male with PMH of asthma presents with chest pain for 3 days. Known to cardiology
+Assessment: query appendicitis, surgical review requested"
+bbc745ba-737b-4054-ab38-71ed55817d9b,3acf9313-1874-4dff-ab2a-3187516d92d6,2017-03-06T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 1 week
+Severity: 6/10
+Allergies: Latex
+Meds: nil regular
+Notes: ambulance brought in, crew concerned"
+0dd99f29-9f32-4b14-a729-3d7c40ea06ef,344de08b-bae0-4d79-b89e-a2b6204e1a21,1956-03-24T20:51:21Z,ED_TRIAGE,"CC: back pain
+HPI: unknown year old female with PMH of nil significant presents with back pain for 2 hours. No significant PMH
+Assessment: low risk chest pain, HEART score 2"
+b6021690-0921-4d1e-8805-ed47d31b6829,a0be3e9c-2d82-4145-9f71-c15e1f47fe70,2015-08-08T20:41:13Z,ED_TRIAGE,overdose. 1 week. Tried ibuprofen without relief. Regular attender. Obs stable. Triaged as category 4.
+728f208c-c549-4893-8ccb-fefae8933f34,8a789548-b3b7-46dc-9e9a-ffd4406f2961,2010-05-24T23:11:54Z,ED_TRIAGE,allergic reaction. 1 week. Tried paracetamol without relief. Regular attender. Obs stable. Triaged as category 3.
+a3acaede-772b-4786-ac40-ead315bd7877,cae10920-f977-48b4-a0d3-4d70ad561fd1,2002-06-14T23:35:03Z,ED_TRIAGE,"CC: nausea and vomiting
+HPI: 89 year old male with PMH of IHD, prev MI 2019 presents with nausea and vomiting for since yesterday. PMH: COPD, AF
+Assessment: UTI, send MSU"
+6db2a104-ea86-449a-bc62-930c37f8c9ac,19d6d7d2-4f3c-437c-9378-6c9a730c3f96,1993-12-27T19:09:49Z,ED_TRIAGE,"Pt presents to ED with cough. Onset gradual. Pain 5/10. Regular attender. Vitals: BP 141/104, HR 113, Temp 36.6. migraine, improving with analgesia"
+58d0671f-5e42-4eb6-9678-6aa61ebd7b8f,04630e85-e9f5-4a9b-be75-97f2c3346037,1986-03-01T23:46:24Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 30 minutes
+Severity: 8/10
+Allergies: Latex
+Meds: metformin, ramipril
+Notes: appears distressed"
+05664cbb-3c7e-4b65-a1dc-0fbaeb21fd62,3acf9313-1874-4dff-ab2a-3187516d92d6,2011-08-08T13:57:11Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: urinary symptoms
+Duration: since yesterday
+Severity: 1/10
+Allergies: Latex
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: patient appears comfortable"
+a94ff73a-512b-468d-b655-e5f5e768184e,4f0cc2f3-8492-41c9-ad38-f01219739df0,1964-11-05T21:42:25Z,ED_TRIAGE,nausea and vomiting. 30 minutes. Tried ibuprofen without relief. Recent discharge from ward. Obs stable. Triaged as category 1.
+e847bd52-2f0f-4a58-b4aa-5314a7a3f7bd,1aa71b23-790e-4d22-92da-c689682c8993,2012-08-06T20:03:59Z,ED_TRIAGE,"19yo female presenting with cough x 2 hours. No significant PMH. O/E: GCS 15, oriented, no focal neurology. Impression: mechanical fall, no red flags. Plan: IV fluids, antiemetics"
+e40ef4b7-2ed6-49fb-b8f4-9a3a59b91b88,73d6a730-418f-4dbc-bc00-6d2c53bfa89a,1967-02-28T06:13:04Z,ED_TRIAGE,"18yo female presenting with palpitations x 30 minutes. Known to cardiology. O/E: tenderness over R iliac fossa. Impression: UTI, send MSU. Plan: CT head, neuro obs"
+569382e8-438d-4adc-93f1-5341de983552,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,2012-01-21T21:09:07Z,ED_TRIAGE,urinary symptoms. 1 week. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 4.
+ca4da90d-9de4-44e0-86d6-4676517d4aff,baffdce5-d444-4c8c-a815-e7d00a01f7ca,2017-03-09T09:13:02Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: fever
+Duration: 30 minutes
+Severity: 5/10
+Allergies: Nil known
+Meds: salbutamol PRN
+Notes: ambulance brought in, crew concerned"
+d45ce3a5-9bdb-4b14-ab90-e52543cef70b,0c1606c8-637e-4ed3-baf4-67390d8f3956,2013-11-25T03:32:02Z,ED_TRIAGE,"Pt presents to ED with headache. Onset gradual. Pain 1/10. PMH: HTN, T2DM. Vitals: BP 159/53, HR 109, Temp 39.4. migraine, improving with analgesia"
+9b28bcea-3105-4d7d-8895-8329b95fa3ca,f1921fc3-fdfc-441d-a928-27c18002fedf,2002-01-30T16:48:29Z,ED_TRIAGE,palpitations. 2 hours. Tried ibuprofen without relief. No significant PMH. Obs stable. Triaged as category 3.
+71f0c9cd-0a33-43a3-8f03-b43a43f9d49c,9f0696f4-ab85-48f0-9d61-44c01893d2f0,2011-03-21T12:06:05Z,ED_TRIAGE,"CC: fall
+HPI: 28 year old female with PMH of epilepsy presents with fall for 30 minutes. No significant PMH
+Assessment: exacerbation of known COPD"
+04bbcfe6-05f4-4155-b4bf-a2d35740685a,a5fa511c-6acf-4994-a809-c9ce6e7c7ad9,2017-01-25T23:30:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: since yesterday
+Severity: 5/10
+Allergies: Codeine
+Meds: metformin, ramipril
+Notes: walked in from waiting room"
+d29f9dd3-fd21-4e05-9d56-d50e15384172,f4286e97-28cf-4768-99f5-0d1d86295354,2014-12-02T04:33:48Z,ED_TRIAGE,"CC: overdose
+HPI: 10 year old male with PMH of rheumatoid arthritis presents with overdose for 1 week. No significant PMH
+Assessment: mechanical fall, no red flags"
+ed32598f-7764-41c5-8b08-c6228b082509,0c1606c8-637e-4ed3-baf4-67390d8f3956,2019-08-31T03:32:02Z,ED_TRIAGE,"Pt presents to ED with fall. Onset 1 week ago. Pain 10/10. Recent discharge from ward. Vitals: BP 125/93, HR 70, Temp 39.0. UTI, send MSU"
+7d38d93b-4fdd-4119-823f-537c797d56e3,85a0da4b-6e8d-492c-976b-748e39daf4ef,2014-12-30T15:08:21Z,ED_TRIAGE,"81yo male presenting with cough x 2 hours. No significant PMH. O/E: tenderness over R iliac fossa. Impression: query appendicitis, surgical review requested. Plan: X-ray, analgesia, reassess"
+e19508cb-4e34-4ff5-9838-9f04de99284f,ca3330c5-bbbc-47e7-addb-302f2e069986,2013-01-01T22:12:27Z,ED_TRIAGE,"CC: confusion
+HPI: 9 year old female with PMH of IHD, prev MI 2019 presents with confusion for 1 week. Regular attender
+Assessment: low risk chest pain, HEART score 2"
+3a9b5294-56c7-47de-ab71-01df2169ed27,76acc19c-38d4-4fa9-83e4-cf9bdc82340d,2017-10-27T20:52:23Z,ED_TRIAGE,"CC: overdose
+HPI: 24 year old female with PMH of HTN, T2DM presents with overdose for 2 hours. PMH: CKD stage 3
+Assessment: low risk chest pain, HEART score 2"
+efceb86c-3185-45b0-a51f-94fb917b2b7a,a7f102bb-e1ba-4417-a0c5-75dec6473034,2013-04-02T09:30:42Z,ED_TRIAGE,"CC: fever
+HPI: 98 year old male with PMH of nil significant presents with fever for 1 week. Known to cardiology
+Assessment: ? ACS, needs serial troponins"
+bc5ea274-ad81-495a-adcb-276b69a7a120,fca3178e-fb68-41c3-8598-702d3ca68b96,1990-03-15T17:27:52Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 3 days
+Severity: 0/10
+Allergies: Latex
+Meds: sertraline 50mg OD
+Notes: ambulance brought in, crew concerned"
+104b4c27-d5e0-4c1d-9de9-312da0cf533a,a5fa511c-6acf-4994-a809-c9ce6e7c7ad9,2020-01-10T23:30:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 1 week
+Severity: 6/10
+Allergies: Codeine
+Meds: salbutamol PRN
+Notes: patient appears comfortable"
+,c466fefd-30df-47ac-98b3-a1cdf8e2f7c7,2020-04-02T11:06:45Z,ED_TRIAGE,overdose. 1 week. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 3.
+bfaffb79-10d1-497f-a948-1d618d90be42,1c3fea30-6be0-419a-b342-50767fd55440,2014-11-27T13:14:34Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: 1 week
+Severity: 5/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: walked in from waiting room"
+da3b8601-64d0-4b88-a1a9-b1781ff8300a,8507a0b0-b667-4a07-90f1-8cfb2193dcd8,2002-03-06T20:06:53Z,ED_TRIAGE,"CC: back pain
+HPI: 59 year old male with PMH of IHD, prev MI 2019 presents with back pain for 3 days. Known to cardiology
+Assessment: needs CT head given age and mechanism"
+341a5736-4469-4a06-8268-44f00ab660a9,fc448035-8fc9-4893-b4eb-d1b90fc8742c,2013-12-14T13:46:06Z,ED_TRIAGE,syncope. 3 days. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 5.
+be00c6b0-8c67-493e-b870-5d52ad2113b3,45840f9a-a735-45e4-beb0-b750fc9a712e,2010-11-26T11:52:26Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset sudden. Pain 10/10. PMH: HTN, T2DM. Vitals: BP 146/58, HR 106, Temp 39.4. needs CT head given age and mechanism"
+e2d02331-ce92-40f6-ba46-f3a73f4de0f6,6f6492b6-fc11-42ed-aa0b-ec99b1cfc12a,1994-01-22T23:35:03Z,ED_TRIAGE,chest pain. 2 hours. Tried over-the-counter antacids without relief. Known to cardiology. Obs stable. Triaged as category 1.
+0ac3164d-244b-4ac8-9564-b080d92f7393,bab51ea9-2945-4f8a-8015-e430f80a908e,2014-05-20T09:39:29Z,ED_TRIAGE,"CC: back pain
+HPI: unknown year old male with PMH of asthma presents with back pain for since yesterday. No significant PMH
+Assessment: UTI, send MSU"
+4b9405eb-979e-4dd0-a9d2-21b65849bde7,3acf9313-1874-4dff-ab2a-3187516d92d6,2015-11-09T13:57:11Z,ED_TRIAGE,"98yo male presenting with seizure x 1 week. Recent discharge from ward. O/E: GCS 15, oriented, no focal neurology. Impression: needs CT head given age and mechanism. Plan: discharge with safety net advice"
+9ce380c9-27fa-4efb-83f4-e961d71c717b,efa3e04c-ec23-46e4-9431-a73492ad32a5,2015-02-11T12:15:51Z,ED_TRIAGE,"CC: allergic reaction
+HPI: 69 year old female with PMH of COPD, AF presents with allergic reaction for 3 days. Known to cardiology
+Assessment: ? ACS, needs serial troponins"
+b9a24419-afde-4dfa-a5cf-b5a855969d9b,85b81fe1-9eaa-419b-9cf6-16aabba09fd6,2013-07-30T04:57:52Z,ED_TRIAGE,"21yo male presenting with back pain x since yesterday. Known to cardiology. O/E: clear chest bilaterally. Impression: viral URTI, supportive management. Plan: X-ray, analgesia, reassess"
+5aa2c745-7d8c-49d6-a1bd-e90c10f5b8cb,cae10920-f977-48b4-a0d3-4d70ad561fd1,2004-11-26T23:35:03Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset 1 week ago. Pain 8/10. PMH: HTN, T2DM. Vitals: BP 146/76, HR 126, Temp 37.9. mechanical fall, no red flags"
+8b1bfe4e-0aec-4c8e-93ea-fc9dd1713733,dda6a788-814a-48f2-8ebe-bc57e4cefd92,2003-02-13T16:22:51Z,ED_TRIAGE,"Pt presents to ED with nausea and vomiting. Onset 2 days ago. Pain 9/10. Recent discharge from ward. Vitals: BP 90/65, HR 122, Temp 36.9. exacerbation of known COPD"
+7e64a2ba-33cd-46b1-95ae-390e5e9a3181,4e83ed9f-f2ed-4add-8434-2fc116de704b,2010-12-06T01:22:58Z,ED_TRIAGE,"palpitations. 1 week. Tried ibuprofen without relief. PMH: depression, anxiety. Obs stable. Triaged as category 4."
+c8246cbd-541e-4984-9b85-ba0fe73e1a41,8fd4e053-b318-44d7-9401-0ca84b4d1347,1997-02-07T20:01:15Z,ED_TRIAGE,nausea and vomiting. 1 week. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 4.
+644e2032-ef3a-41a8-9113-299793b8d0fa,adebdea9-a5f3-4635-8524-1a9780a75156,2012-02-09T06:48:15Z,ED_TRIAGE,"Pt presents to ED with shortness of breath. Onset this morning. Pain 1/10. Regular attender. Vitals: BP 160/73, HR 129, Temp 36.0. ? ACS, needs serial troponins"
+b54093c9-d5fc-493e-ad0b-0d13d348fe80,3acf9313-1874-4dff-ab2a-3187516d92d6,2010-09-06T13:57:11Z,ED_TRIAGE,"CC: headache
+HPI: 93 year old male with PMH of epilepsy presents with headache for 1 week. Regular attender
+Assessment: mechanical fall, no red flags"
+903f1409-c1bc-4153-a948-ba2b9e5f705d,14213801-5f47-42f9-9a84-729bdc410786,2018-01-19T22:46:23Z,ED_TRIAGE,"CC: right ankle injury
+HPI: 13 year old male with PMH of IHD, prev MI 2019 presents with right ankle injury for 30 minutes. Recent discharge from ward
+Assessment: migraine, improving with analgesia"
+bddb19d4-aee1-4ec0-bc15-387e119b8440,137acc1b-dbca-473e-84bb-fe1baaf98819,1971-11-14T19:05:21Z,ED_TRIAGE,"Pt presents to ED with rash. Onset gradual. Pain 0/10. Regular attender. Vitals: BP 139/63, HR 104, Temp 36.6. migraine, improving with analgesia"
+939f70e7-899a-487a-a166-e280544c0619,f290b494-c6de-40ee-98a3-ebb9d43cfd70,2019-08-07T22:00:44Z,ED_TRIAGE,right ankle injury. 1 week. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 2.
+68c7fbe8-38ca-49d2-a0ec-abd2445f4c34,2950e244-0ba6-4afe-ac30-e0d5529d1d1b,2019-06-15T21:09:07Z,ED_TRIAGE,"CC: back pain
+HPI: 14 year old male with PMH of rheumatoid arthritis presents with back pain for since yesterday. Regular attender
+Assessment: UTI, send MSU"
+2c4ba1c5-45e9-4b96-b026-36beecebebc1,46301870-33bf-4dfd-b12b-2ce9583001f4,1989-01-25T01:10:15Z,ED_TRIAGE,"15yo male presenting with shortness of breath x 2 hours. PMH: nil significant. O/E: clear chest bilaterally. Impression: UTI, send MSU. Plan: CT head, neuro obs"
+a1c2556f-d00b-45c9-ab52-68c0a9ca97fa,cae10920-f977-48b4-a0d3-4d70ad561fd1,2001-08-10T23:35:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: right ankle injury
+Duration: 3 days
+Severity: 9/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: ambulance brought in, crew concerned"
+63c72113-546b-4a0b-9998-9bdfca859637,ec277ad1-49af-4f53-829f-9c074331160c,2016-04-01T15:36:31Z,ED_TRIAGE,"CC: confusion
+HPI: 23 year old female with PMH of COPD, AF presents with confusion for 30 minutes. Regular attender
+Assessment: UTI, send MSU"
+19025fb4-6951-4a9b-ad19-56d3dd1f9e65,a001f3e9-5955-4b52-bb83-99a791380c56,1982-08-26T12:52:16Z,ED_TRIAGE,"CC: headache
+HPI: 25 year old female with PMH of IHD, prev MI 2019 presents with headache for 1 week. Recent discharge from ward
+Assessment: UTI, send MSU"
+a3cc8b56-52db-41aa-93bb-e98bb9c8cf14,adfd8b86-9ee6-4e10-b56a-c1995bd9ef61,1990-09-15T21:31:22Z,ED_TRIAGE,"CC: laceration to left hand
+HPI: 23 year old female with PMH of IHD, prev MI 2019 presents with laceration to left hand for 30 minutes. Regular attender
+Assessment: likely MSK, low risk"
+0c832330-d567-47de-b300-f56a278e5857,6e239b88-5153-4098-85ab-27bd7539cd0e,2017-07-05T23:58:53Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 2 hours
+Severity: 10/10
+Allergies: Latex
+Meds: nil regular
+Notes: accompanied by family"
+6d17631e-c954-47dc-a505-65745a5e455d,137acc1b-dbca-473e-84bb-fe1baaf98819,1971-12-19T19:05:21Z,ED_TRIAGE,"60yo male presenting with syncope x since yesterday. PMH: asthma. O/E: GCS 15, oriented, no focal neurology. Impression: query appendicitis, surgical review requested. Plan: discharge with safety net advice"
+826ca274-07a2-45a8-a7b8-8de833b96fb5,a543a58b-6127-448a-a737-3056c022601f,2014-11-03T12:56:34Z,ED_TRIAGE,"2yo female presenting with back pain x since yesterday. PMH: COPD, AF. O/E: soft abdomen, no guarding. Impression: UTI, send MSU. Plan: IV fluids, antiemetics"
+f8680a1e-1c5e-46a8-9c39-55bc0fccb391,789ac868-bc05-4da7-9068-25b03a8095e0,2013-09-06T09:11:05Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: allergic reaction
+Duration: 30 minutes
+Severity: 10/10
+Allergies: NKDA
+Meds: metformin, ramipril
+Notes: walked in from waiting room"
+a9bab4b6-58aa-4225-b8f6-ca8a11124d60,86b97fc7-ae8f-4e0d-8e66-db68f36e7a76,2012-12-03T02:08:27Z,ED_TRIAGE,"CC: allergic reaction
+HPI: unknown year old female with PMH of COPD, AF presents with allergic reaction for since yesterday. Recent discharge from ward
+Assessment: query appendicitis, surgical review requested"
+f3ac218d-3c93-45f1-9911-cc3a878a7b36,d2726876-1462-4c32-b0e6-1628fdb88c14,1969-04-01T08:43:46Z,ED_TRIAGE,"CC: rash
+HPI: 43 year old male with PMH of HTN, T2DM presents with rash for 1 week. Known to cardiology
+Assessment: viral URTI, supportive management"
+ddc72056-3324-4e28-bb41-8fcdf014e943,65243e61-da11-42a6-826e-a43d960d1e84,2016-10-04T10:11:52Z,ED_TRIAGE,"26yo female presenting with headache x 2 hours. Recent discharge from ward. O/E: swollen right ankle, unable to weight bear. Impression: needs CT head given age and mechanism. Plan: IV fluids, antiemetics"
+,04a849f4-1aaf-4112-a62f-d44df4325773,2019-01-18T20:13:17Z,ED_TRIAGE,"21yo female presenting with confusion x 30 minutes. PMH: COPD, AF. O/E: clear chest bilaterally. Impression: mechanical fall, no red flags. Plan: CT head, neuro obs"
+f9b4777a-8d2b-4aa8-8058-eec80ab38302,cae10920-f977-48b4-a0d3-4d70ad561fd1,2002-12-06T23:35:03Z,ED_TRIAGE,fall. 30 minutes. Tried rest without relief. Recent discharge from ward. Obs stable. Triaged as category 2.
+c9c068d5-f6dd-4cd0-9b84-879f3aac82c3,8fd4e053-b318-44d7-9401-0ca84b4d1347,1998-01-23T20:01:15Z,ED_TRIAGE,"Pt presents to ED with fall. Onset 2 days ago. Pain 10/10. Known to cardiology. Vitals: BP 114/59, HR 62, Temp 36.7. viral URTI, supportive management"
+d0d23ab7-032c-4dab-b65d-79f379c94a72,f4b626d3-6a08-4041-a726-c3d6305fabf3,2010-05-27T08:05:18Z,ED_TRIAGE,"12yo male presenting with abdominal pain x 1 week. No significant PMH. O/E: soft abdomen, no guarding. Impression: exacerbation of known COPD. Plan: discharge with safety net advice"
+30023a1e-ad64-4184-949e-4b7a7d5c3b2a,73d6a730-418f-4dbc-bc00-6d2c53bfa89a,1949-03-02T06:13:04Z,ED_TRIAGE,"0yo female presenting with back pain x 3 days. No significant PMH. O/E: GCS 15, oriented, no focal neurology. Impression: mechanical fall, no red flags. Plan: bloods, ECG, serial troponins"
+18eba27f-1bb9-4b94-b263-aab110f6414d,734dfbb9-6320-4fee-b21a-175d3f2f14ba,2017-08-21T02:48:14Z,ED_TRIAGE,right ankle injury. 1 week. Tried paracetamol without relief. Known to cardiology. Obs stable. Triaged as category 3.
+c6b5402e-c2ca-412a-9270-23c5c4c43a49,3c2bfff1-8a3f-4b9c-bc18-e7ea6562e436,2018-09-12T13:37:35Z,ED_TRIAGE,"0yo female presenting with allergic reaction x 3 days. Recent discharge from ward. O/E: GCS 15, oriented, no focal neurology. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+1bb7480c-7011-40c2-9f6b-dbd87381684f,9841342b-fa85-4526-9036-b138ffa81a2a,2012-03-16T21:30:58Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: shortness of breath
+Duration: 2 hours
+Severity: 3/10
+Allergies: NKDA
+Meds: warfarin, bisoprolol, atorvastatin
+Notes: ambulance brought in, crew concerned"
+2161588e-9ac6-4c3e-885a-c27659632427,2e7a30d7-aaac-44df-81c5-d4e4f2f8eedc,2016-11-18T17:42:54Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset 2 days ago. Pain 3/10. PMH: depression, anxiety. Vitals: BP 155/62, HR 82, Temp 37.6. exacerbation of known COPD"
+dd18b6b8-af7a-4e3b-b910-f5ae729065a2,ea32ff72-a209-4c99-a5e5-09f047152280,2017-03-19T07:40:03Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: confusion
+Duration: 30 minutes
+Severity: 3/10
+Allergies: NKDA
+Meds: metformin, ramipril
+Notes: appears distressed"
+4fe38474-4ab9-41f1-9bb2-91ac48c7c4a8,03612a7e-6460-4ef6-9528-59d60f970b93,2013-12-30T12:21:33Z,ED_TRIAGE,headache. 30 minutes. Tried paracetamol without relief. Recent discharge from ward. Obs stable. Triaged as category 3.
+6c077e69-4fe4-4376-8743-61ad308f8997,8b570796-e100-47cd-a634-dbc8cd35857e,1980-05-03T18:44:55Z,ED_TRIAGE,"CC: fever
+HPI: 62 year old male with PMH of rheumatoid arthritis presents with fever for 3 days. No significant PMH
+Assessment: likely MSK, low risk"
+5bb867b8-841d-4fbe-8de5-64a622e6a1a6,a905bc35-28b4-421c-b2a6-26f7fe4e28bf,1971-05-28T01:38:54Z,ED_TRIAGE,"CC: abdominal pain
+HPI: 7 year old male with PMH of CKD stage 3 presents with abdominal pain for 1 week. PMH: COPD, AF
+Assessment: ? ACS, needs serial troponins"
+d25e513f-4dfb-4ecd-bb1a-79f714821255,20c3ca32-ec09-4e7c-abab-9f7711cbe235,2006-03-30T12:08:54Z,ED_TRIAGE,confusion. 2 hours. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 5.
+df01d26f-8735-4aea-895f-7ab4baeeea91,16aea213-825e-4d66-a68c-a2757658673e,2013-04-12T04:39:39Z,ED_TRIAGE,"24yo male presenting with chest pain x 30 minutes. Regular attender. O/E: tenderness over R iliac fossa. Impression: exacerbation of known COPD. Plan: CT head, neuro obs"
+7124ec12-c4b9-417b-bfb1-cbc27316cbac,19d2cfb8-439b-454a-b47e-5274c219005b,1956-01-18T09:30:42Z,ED_TRIAGE,fall. 2 hours. Tried rest without relief. Regular attender. Obs stable. Triaged as category 4.
+0f178492-e9b1-4970-a91b-5dee1af3cb3b,be3eaf02-0c8a-4729-8b6e-7b40ab016e29,2003-10-08T00:59:10Z,ED_TRIAGE,"62yo male presenting with shortness of breath x 2 hours. Regular attender. O/E: soft abdomen, no guarding. Impression: migraine, improving with analgesia. Plan: bloods, ECG, serial troponins"
+5013d9a1-62d9-4607-8c89-bcf17545c65f,e3af2463-f4c9-4dbb-a8d2-d6a08c5b1460,2017-12-08T23:28:40Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset gradual. Pain 4/10. PMH: epilepsy. Vitals: BP 98/88, HR 74, Temp 37.0. needs CT head given age and mechanism"
+4441c738-2fb8-48ab-b964-6aba6e9471e7,6d4312d1-0663-474b-bd30-b0e00dd7dbc7,2015-03-18T20:03:03Z,ED_TRIAGE,"0yo male presenting with cough x since yesterday. Regular attender. O/E: swollen right ankle, unable to weight bear. Impression: ? ACS, needs serial troponins. Plan: CT head, neuro obs"
+a3503e55-9da8-44b2-b530-dcdb8cd35261,9b8fdfcd-a8e1-4486-ac68-82cd1e190488,1996-07-08T22:09:56Z,ED_TRIAGE,"CC: syncope
+HPI: 76 year old male with PMH of CKD stage 3 presents with syncope for since yesterday. PMH: hypothyroidism
+Assessment: query appendicitis, surgical review requested"
+343489f0-5796-4d82-b2bd-d998003f0205,80f7a79f-61f1-4ec3-a2c7-226611a54044,2013-10-04T05:40:02Z,ED_TRIAGE,"Pt presents to ED with confusion. Onset 2 days ago. Pain 0/10. Regular attender. Vitals: BP 135/73, HR 75, Temp 36.5. ? ACS, needs serial troponins"
+c1f3c838-0a30-4e44-834c-817f3a0b40e3,3acf9313-1874-4dff-ab2a-3187516d92d6,2013-04-22T13:57:11Z,ED_TRIAGE,"96yo male presenting with fall x 3 days. Regular attender. O/E: swollen right ankle, unable to weight bear. Impression: UTI, send MSU. Plan: bloods, ECG, serial troponins"
+1f264747-ef10-40b5-8667-004a57b8e974,2335bebd-0843-4322-9585-8ab90f49def3,2015-04-11T23:10:53Z,ED_TRIAGE,"CC: urinary symptoms
+HPI: 18 year old female with PMH of asthma presents with urinary symptoms for 3 days. PMH: HTN, T2DM
+Assessment: low risk chest pain, HEART score 2"
+d2493b4b-17da-40d2-bce9-8b0277326e67,e1b30dc8-2618-42c1-a3f8-9c2d8ac49c5f,1974-12-19T13:57:11Z,ED_TRIAGE,"Pt presents to ED with abdominal pain. Onset sudden. Pain 6/10. Known to cardiology. Vitals: BP 164/68, HR 66, Temp 38.9. query appendicitis, surgical review requested"
+3d2c3b86-c30e-4214-861b-ebbf4fe2b40b,30dd9636-c7bd-44ff-a5c9-20104ece45bd,2014-09-17T09:26:50Z,ED_TRIAGE,headache. since yesterday. Tried ibuprofen without relief. Recent discharge from ward. Obs stable. Triaged as category 5.
+8ea1b67b-0151-45f1-8798-3a03ee076aa7,471eb0f1-acfb-4df9-a7cf-f3af761ebd32,2015-02-24T08:50:15Z,ED_TRIAGE,"22yo female presenting with dizziness x 2 hours. No significant PMH. O/E: clear chest bilaterally. Impression: exacerbation of known COPD. Plan: X-ray, analgesia, reassess"
+0d8965cc-f435-4018-8cd1-7a2525c534e2,d441bc22-1d80-4f3f-b801-6fc9d64ac72e,2015-12-22T12:10:08Z,ED_TRIAGE,fall. 30 minutes. Tried ice pack without relief. No significant PMH. Obs stable. Triaged as category 3.
+0516096c-247c-4463-8df5-bf4782e88602,099198eb-df60-41d1-ad22-3655b957d805,1949-10-13T20:06:53Z,ED_TRIAGE,right ankle injury. 2 hours. Tried over-the-counter antacids without relief. PMH: rheumatoid arthritis. Obs stable. Triaged as category 3.
+c0ab90e9-5f56-4409-8fe6-5a7a76c175e4,81813194-e1ed-41c2-8f7a-122a60b06550,2017-05-02T00:25:40Z,ED_TRIAGE,"Pt presents to ED with rash. Onset gradual. Pain 5/10. Recent discharge from ward. Vitals: BP 174/106, HR 122, Temp 38.7. migraine, improving with analgesia"
+58a4fe8f-5133-4881-827b-a08fa69f2fa1,716348ff-0af1-48b6-9c08-2907772ba5bc,1997-05-17T08:43:46Z,ED_TRIAGE,"CC: dizziness
+HPI: 72 year old male with PMH of nil significant presents with dizziness for 30 minutes. Recent discharge from ward
+Assessment: likely MSK, low risk"
+02a959a5-d06a-4d9d-bbaa-77b2fe0ca616,df7c1d66-eac2-49bd-9d12-ee17e8758f68,2015-07-11T12:47:12Z,ED_TRIAGE,"Pt presents to ED with syncope. Onset 1 week ago. Pain 2/10. Regular attender. Vitals: BP 139/69, HR 92, Temp 38.7. mechanical fall, no red flags"
+74a9dbcb-487c-44fa-ac8b-9d56e091c4eb,f25be418-dc57-4c06-855c-b0e6315e4189,2014-06-13T00:57:21Z,ED_TRIAGE,"48yo female presenting with fall x 1 week. No significant PMH. O/E: swollen right ankle, unable to weight bear. Impression: likely MSK, low risk. Plan: discharge with safety net advice"
+94767950-6175-489a-a1ba-7f407bc05d28,c1b80a65-61e0-4f1b-9e1f-122c6d326034,2016-05-07T12:50:30Z,ED_TRIAGE,syncope. 30 minutes. Tried ibuprofen without relief. Known to cardiology. Obs stable. Triaged as category 2.
+da43e79d-0746-4f03-8183-dc86ee95521f,ec3f12e0-5f62-4378-aab7-2538d037df0f,2015-10-31T00:43:10Z,ED_TRIAGE,"CC: dizziness
+HPI: 41 year old female with PMH of asthma presents with dizziness for 2 hours. PMH: epilepsy
+Assessment: viral URTI, supportive management"
+eb419eca-7e3b-49b6-a8aa-0eb7c5a3a23a,e188fafe-c1bb-45dc-9627-4ff4e4bc0ec0,2015-03-12T22:23:00Z,ED_TRIAGE,"Pt presents to ED with laceration to left hand. Onset sudden. Pain 5/10. Recent discharge from ward. Vitals: BP 116/90, HR 66, Temp 39.1. mechanical fall, no red flags"
+a8cae3d7-0e5f-4893-a4ff-61930d975e40,5be97219-ef35-4c5a-88ab-5f9a2187b7d6,2011-11-25T20:21:56Z,ED_TRIAGE,"39yo male presenting with palpitations x 2 hours. Known to cardiology. O/E: GCS 15, oriented, no focal neurology. Impression: viral URTI, supportive management. Plan: bloods, ECG, serial troponins"
+f7dde291-a4fb-48db-a557-9a22565275e4,d0bbc03d-df4e-44e3-ad4c-b5739dd67887,2016-10-05T06:04:10Z,ED_TRIAGE,"Pt presents to ED with right ankle injury. Onset sudden. Pain 4/10. Known to cardiology. Vitals: BP 91/92, HR 119, Temp 36.8. query appendicitis, surgical review requested"
+fa9c2111-5159-4d62-8038-b5513af3a337,68878f91-5962-4ef2-83e7-43b8298c1708,1995-12-30T13:40:53Z,ED_TRIAGE,"Pt presents to ED with shortness of breath. Onset 2 days ago. Pain 6/10. Regular attender. Vitals: BP 113/101, HR 101, Temp 39.0. needs CT head given age and mechanism"
+835a0b8d-535f-46d9-8713-ce4ad592057c,099198eb-df60-41d1-ad22-3655b957d805,1993-09-11T20:06:53Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: back pain
+Duration: 1 week
+Severity: 10/10
+Allergies: Penicillin
+Meds: nil regular
+Notes: walked in from waiting room"
+0f1f460d-3fd0-412e-a783-bff6cef3fada,cae10920-f977-48b4-a0d3-4d70ad561fd1,2007-12-07T23:35:03Z,ED_TRIAGE,"Pt presents to ED with allergic reaction. Onset sudden. Pain 8/10. Recent discharge from ward. Vitals: BP 141/53, HR 81, Temp 36.4. viral URTI, supportive management"
+6bd52c9f-8f8c-4366-913b-628f3bc20cc6,7a297104-f0bd-4ca6-aa19-c910e2a45f01,2013-01-07T03:33:10Z,ED_TRIAGE,dizziness. since yesterday. Tried ice pack without relief. Known to cardiology. Obs stable. Triaged as category 5.
+f8c6b998-6346-4b2b-bae5-69592957b739,6dafa93d-3698-4124-9bbd-7429cc2a7374,2009-09-29T13:32:35Z,ED_TRIAGE,"56yo male presenting with urinary symptoms x 3 days. Regular attender. O/E: GCS 15, oriented, no focal neurology. Impression: migraine, improving with analgesia. Plan: X-ray, analgesia, reassess"
+d578ae2e-952f-450d-ab5f-3a296df6f4db,d00fc5dd-be0e-47aa-a52a-5cf9ee3a78b5,2006-11-27T07:50:09Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: shortness of breath
+Duration: 2 hours
+Severity: 5/10
+Allergies: Codeine
+Meds: sertraline 50mg OD
+Notes: ambulance brought in, crew concerned"
+f8c8fe7e-1f35-414a-b201-c3b0cdbf7a0d,18794a7c-c7fa-47d6-8387-9fc133c4e1e3,2014-03-31T09:39:17Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: nausea and vomiting
+Duration: 2 hours
+Severity: 7/10
+Allergies: NKDA
+Meds: metformin, ramipril
+Notes: patient appears comfortable"
+6a340a3b-fc0a-43fe-a59c-3bed6b14fd2a,c1cfae08-b141-40ea-a8bb-78c46cde0f3c,2013-08-19T12:15:51Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: abdominal pain
+Duration: 30 minutes
+Severity: 10/10
+Allergies: Nil known
+Meds: sertraline 50mg OD
+Notes: appears distressed"
+01eadb92-b94c-46f7-b679-37b655cbd04a,2dc2c931-b06e-4249-8a39-c33bc60c0f03,1996-02-15T16:22:51Z,ED_TRIAGE,"53yo female presenting with urinary symptoms x since yesterday. PMH: epilepsy. O/E: tenderness over R iliac fossa. Impression: exacerbation of known COPD. Plan: bloods, ECG, serial troponins"
+8f68568f-8a5f-45f3-8ad7-84ec4f1ad708,59669e7c-0190-4cbf-9e27-4898f1a35d03,2011-02-24T21:10:19Z,ED_TRIAGE,allergic reaction. 2 hours. Tried ice pack without relief. Recent discharge from ward. Obs stable. Triaged as category 2.
+fcd5322a-5300-4556-8baf-7f712272f494,ed6fb8d6-c14d-4e34-a029-2dab33855ddd,2017-10-22T05:37:04Z,ED_TRIAGE,"ED Triage Note
+Chief Complaint: dizziness
+Duration: 30 minutes
+Severity: 5/10
+Allergies: Penicillin
+Meds: salbutamol PRN
+Notes: appears distressed"
+e59ceeeb-117b-4c07-99e2-393cda210360,8a9df121-e012-457c-ade0-ead804d93818,2000-05-25T11:08:08Z,ED_TRIAGE,"Pt presents to ED with seizure. Onset 1 week ago. Pain 7/10. PMH: HTN, T2DM. Vitals: BP 172/74, HR 78, Temp 38.6. needs CT head given age and mechanism"
+54c5d9f2-02d1-40c3-a86d-ad253cec43b5,c67349f9-19e4-4f79-9203-55540b153492,2019-11-25T05:42:17Z,ED_TRIAGE,"CC: dizziness
+HPI: 3 year old female with PMH of COPD, AF presents with dizziness for since yesterday. Recent discharge from ward
+Assessment: low risk chest pain, HEART score 2"
+98d43660-013e-4555-be6d-38c7c97819e1,b5b4755b-462c-4dcf-acd1-75ca01b7c453,1987-08-19T16:26:18Z,ED_TRIAGE,"Pt presents to ED with fever. Onset this morning. Pain 0/10. Regular attender. Vitals: BP 165/51, HR 72, Temp 37.4. UTI, send MSU"
